@@ -1,0 +1,522 @@
+<!DOCTYPE html>
+
+<html>
+  <head>
+  <meta charset='utf-8'>
+  <title>TestNG reports</title>
+
+    <link type="text/css" href="testng-reports.css" rel="stylesheet" />
+    <script type="text/javascript" src="jquery-3.4.1.min.js"></script>
+    <script type="text/javascript" src="testng-reports.js"></script>
+    <script type="text/javascript" src="https://www.google.com/jsapi"></script>
+    <script type='text/javascript'>
+      google.load('visualization', '1', {packages:['table']});
+      google.setOnLoadCallback(drawTable);
+      var suiteTableInitFunctions = new Array();
+      var suiteTableData = new Array();
+    </script>
+    <!--
+      <script type="text/javascript" src="jquery-ui/js/jquery-ui-1.8.16.custom.min.js"></script>
+     -->
+  </head>
+
+  <body>
+    <div class="top-banner-root">
+      <span class="top-banner-title-font">Test results</span>
+      <br/>
+      <span class="top-banner-font-1">1 suite, 1 failed test</span>
+    </div> <!-- top-banner-root -->
+    <div class="navigator-root">
+      <div class="navigator-suite-header">
+        <span>All suites</span>
+        <a href="#" title="Collapse/expand all the suites" class="collapse-all-link">
+          <img src="collapseall.gif" class="collapse-all-icon">
+          </img> <!-- collapse-all-icon -->
+        </a> <!-- collapse-all-link -->
+      </div> <!-- navigator-suite-header -->
+      <div class="suite">
+        <div class="rounded-window">
+          <div class="suite-header light-rounded-window-top">
+            <a href="#" panel-name="suite-eCommerce" class="navigator-link">
+              <span class="suite-name border-failed">eCommerce</span>
+            </a> <!-- navigator-link -->
+          </div> <!-- suite-header light-rounded-window-top -->
+          <div class="navigator-suite-content">
+            <div class="suite-section-title">
+              <span>Info</span>
+            </div> <!-- suite-section-title -->
+            <div class="suite-section-content">
+              <ul>
+                <li>
+                  <a href="#" panel-name="test-xml-eCommerce" class="navigator-link ">
+                    <span>C:\Users\rkamo\eclipse-workspace\DemoProjecteCommerce\TestNG.xml</span>
+                  </a> <!-- navigator-link  -->
+                </li>
+                <li>
+                  <a href="#" panel-name="testlist-eCommerce" class="navigator-link ">
+                    <span class="test-stats">1 test</span>
+                  </a> <!-- navigator-link  -->
+                </li>
+                <li>
+                  <a href="#" panel-name="group-eCommerce" class="navigator-link ">
+                    <span>0 groups</span>
+                  </a> <!-- navigator-link  -->
+                </li>
+                <li>
+                  <a href="#" panel-name="times-eCommerce" class="navigator-link ">
+                    <span>Times</span>
+                  </a> <!-- navigator-link  -->
+                </li>
+                <li>
+                  <a href="#" panel-name="reporter-eCommerce" class="navigator-link ">
+                    <span>Reporter output</span>
+                  </a> <!-- navigator-link  -->
+                </li>
+                <li>
+                  <a href="#" panel-name="ignored-methods-eCommerce" class="navigator-link ">
+                    <span>Ignored methods</span>
+                  </a> <!-- navigator-link  -->
+                </li>
+                <li>
+                  <a href="#" panel-name="chronological-eCommerce" class="navigator-link ">
+                    <span>Chronological view</span>
+                  </a> <!-- navigator-link  -->
+                </li>
+              </ul>
+            </div> <!-- suite-section-content -->
+            <div class="result-section">
+              <div class="suite-section-title">
+                <span>Results</span>
+              </div> <!-- suite-section-title -->
+              <div class="suite-section-content">
+                <ul>
+                  <li>
+                    <span class="method-stats">8 methods, 1 failed,   7 passed</span>
+                  </li>
+                  <li>
+                    <span class="method-list-title failed">Failed methods</span>
+                    <span class="show-or-hide-methods failed">
+                      <a href="#" panel-name="suite-eCommerce" class="hide-methods failed suite-eCommerce"> (hide)</a> <!-- hide-methods failed suite-eCommerce -->
+                      <a href="#" panel-name="suite-eCommerce" class="show-methods failed suite-eCommerce"> (show)</a> <!-- show-methods failed suite-eCommerce -->
+                    </span>
+                    <div class="method-list-content failed suite-eCommerce">
+                      <span>
+                        <img src="failed.png" width="3%"/>
+                        <a href="#" panel-name="suite-eCommerce" title="com.DemoProjecteCommerce2TestCases.TC0_WomenLinkTestCase_001" class="method navigator-link" hash-for-method="womenLinkHomePageTest">womenLinkHomePageTest</a> <!-- method navigator-link -->
+                      </span>
+                      <br/>
+                    </div> <!-- method-list-content failed suite-eCommerce -->
+                  </li>
+                  <li>
+                    <span class="method-list-title passed">Passed methods</span>
+                    <span class="show-or-hide-methods passed">
+                      <a href="#" panel-name="suite-eCommerce" class="hide-methods passed suite-eCommerce"> (hide)</a> <!-- hide-methods passed suite-eCommerce -->
+                      <a href="#" panel-name="suite-eCommerce" class="show-methods passed suite-eCommerce"> (show)</a> <!-- show-methods passed suite-eCommerce -->
+                    </span>
+                    <div class="method-list-content passed suite-eCommerce">
+                      <span>
+                        <img src="passed.png" width="3%"/>
+                        <a href="#" panel-name="suite-eCommerce" title="com.DemoProjecteCommerce2TestCases.TC1_eCommerceLoginTestCase_001" class="method navigator-link" hash-for-method="addToCard">addToCard</a> <!-- method navigator-link -->
+                      </span>
+                      <br/>
+                      <span>
+                        <img src="passed.png" width="3%"/>
+                        <a href="#" panel-name="suite-eCommerce" title="com.DemoProjecteCommerce2TestCases.TC3_AddToCartItemTestCase_003" class="method navigator-link" hash-for-method="addToCartTest">addToCartTest</a> <!-- method navigator-link -->
+                      </span>
+                      <br/>
+                      <span>
+                        <img src="passed.png" width="3%"/>
+                        <a href="#" panel-name="suite-eCommerce" title="com.DemoProjecteCommerce2TestCases.TC04_CartImageHomePageTestCase_001" class="method navigator-link" hash-for-method="cartImageTestValidation">cartImageTestValidation</a> <!-- method navigator-link -->
+                      </span>
+                      <br/>
+                      <span>
+                        <img src="passed.png" width="3%"/>
+                        <a href="#" panel-name="suite-eCommerce" title="com.DemoProjecteCommerce2TestCases.TC01_DressesLinkTestCase_001" class="method navigator-link" hash-for-method="dressesLinkHomePageValidation">dressesLinkHomePageValidation</a> <!-- method navigator-link -->
+                      </span>
+                      <br/>
+                      <span>
+                        <img src="passed.png" width="3%"/>
+                        <a href="#" panel-name="suite-eCommerce" title="com.DemoProjecteCommerce2TestCases.TC1_eCommerceLoginTestCase_001" class="method navigator-link" hash-for-method="loginTest">loginTest</a> <!-- method navigator-link -->
+                      </span>
+                      <br/>
+                      <span>
+                        <img src="passed.png" width="3%"/>
+                        <a href="#" panel-name="suite-eCommerce" title="com.DemoProjecteCommerce2TestCases.TC03_WebLogoHomePageTestCase_001" class="method navigator-link" hash-for-method="logoWebHomePageTest">logoWebHomePageTest</a> <!-- method navigator-link -->
+                      </span>
+                      <br/>
+                      <span>
+                        <img src="passed.png" width="3%"/>
+                        <a href="#" panel-name="suite-eCommerce" title="com.DemoProjecteCommerce2TestCases.TC02_TsShirtLinkHomePageTestCase_001" class="method navigator-link" hash-for-method="tsShirtLinkHomePageTest">tsShirtLinkHomePageTest</a> <!-- method navigator-link -->
+                      </span>
+                      <br/>
+                    </div> <!-- method-list-content passed suite-eCommerce -->
+                  </li>
+                </ul>
+              </div> <!-- suite-section-content -->
+            </div> <!-- result-section -->
+          </div> <!-- navigator-suite-content -->
+        </div> <!-- rounded-window -->
+      </div> <!-- suite -->
+    </div> <!-- navigator-root -->
+    <div class="wrapper">
+      <div class="main-panel-root">
+        <div panel-name="suite-eCommerce" class="panel eCommerce">
+          <div class="suite-eCommerce-class-failed">
+            <div class="main-panel-header rounded-window-top">
+              <img src="failed.png"/>
+              <span class="class-name">com.DemoProjecteCommerce2TestCases.TC0_WomenLinkTestCase_001</span>
+            </div> <!-- main-panel-header rounded-window-top -->
+            <div class="main-panel-content rounded-window-bottom">
+              <div class="method">
+                <div class="method-content">
+                  <a name="womenLinkHomePageTest">
+                  </a> <!-- womenLinkHomePageTest -->
+                  <span class="method-name">womenLinkHomePageTest</span>
+                  <div class="stack-trace">junit.framework.ComparisonFailure: expected:&lt;... fashion collections[]&gt; but was:&lt;... fashion collections[.]&gt;
+	at junit.framework.Assert.assertEquals(Assert.java:100)
+	at junit.framework.Assert.assertEquals(Assert.java:107)
+	at com.DemoProjecteCommerce2TestCases.TC0_WomenLinkTestCase_001.womenLinkHomePageTest(TC0_WomenLinkTestCase_001.java:29)
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1511)
+... Removed 31 stack frames
+</div> <!-- stack-trace -->
+                </div> <!-- method-content -->
+              </div> <!-- method -->
+            </div> <!-- main-panel-content rounded-window-bottom -->
+          </div> <!-- suite-eCommerce-class-failed -->
+          <div class="suite-eCommerce-class-passed">
+            <div class="main-panel-header rounded-window-top">
+              <img src="passed.png"/>
+              <span class="class-name">com.DemoProjecteCommerce2TestCases.TC02_TsShirtLinkHomePageTestCase_001</span>
+            </div> <!-- main-panel-header rounded-window-top -->
+            <div class="main-panel-content rounded-window-bottom">
+              <div class="method">
+                <div class="method-content">
+                  <a name="tsShirtLinkHomePageTest">
+                  </a> <!-- tsShirtLinkHomePageTest -->
+                  <span class="method-name">tsShirtLinkHomePageTest</span>
+                </div> <!-- method-content -->
+              </div> <!-- method -->
+            </div> <!-- main-panel-content rounded-window-bottom -->
+          </div> <!-- suite-eCommerce-class-passed -->
+          <div class="suite-eCommerce-class-passed">
+            <div class="main-panel-header rounded-window-top">
+              <img src="passed.png"/>
+              <span class="class-name">com.DemoProjecteCommerce2TestCases.TC1_eCommerceLoginTestCase_001</span>
+            </div> <!-- main-panel-header rounded-window-top -->
+            <div class="main-panel-content rounded-window-bottom">
+              <div class="method">
+                <div class="method-content">
+                  <a name="addToCard">
+                  </a> <!-- addToCard -->
+                  <span class="method-name">addToCard</span>
+                </div> <!-- method-content -->
+              </div> <!-- method -->
+              <div class="method">
+                <div class="method-content">
+                  <a name="loginTest">
+                  </a> <!-- loginTest -->
+                  <span class="method-name">loginTest</span>
+                </div> <!-- method-content -->
+              </div> <!-- method -->
+            </div> <!-- main-panel-content rounded-window-bottom -->
+          </div> <!-- suite-eCommerce-class-passed -->
+          <div class="suite-eCommerce-class-passed">
+            <div class="main-panel-header rounded-window-top">
+              <img src="passed.png"/>
+              <span class="class-name">com.DemoProjecteCommerce2TestCases.TC01_DressesLinkTestCase_001</span>
+            </div> <!-- main-panel-header rounded-window-top -->
+            <div class="main-panel-content rounded-window-bottom">
+              <div class="method">
+                <div class="method-content">
+                  <a name="dressesLinkHomePageValidation">
+                  </a> <!-- dressesLinkHomePageValidation -->
+                  <span class="method-name">dressesLinkHomePageValidation</span>
+                </div> <!-- method-content -->
+              </div> <!-- method -->
+            </div> <!-- main-panel-content rounded-window-bottom -->
+          </div> <!-- suite-eCommerce-class-passed -->
+          <div class="suite-eCommerce-class-passed">
+            <div class="main-panel-header rounded-window-top">
+              <img src="passed.png"/>
+              <span class="class-name">com.DemoProjecteCommerce2TestCases.TC3_AddToCartItemTestCase_003</span>
+            </div> <!-- main-panel-header rounded-window-top -->
+            <div class="main-panel-content rounded-window-bottom">
+              <div class="method">
+                <div class="method-content">
+                  <a name="addToCartTest">
+                  </a> <!-- addToCartTest -->
+                  <span class="method-name">addToCartTest</span>
+                </div> <!-- method-content -->
+              </div> <!-- method -->
+            </div> <!-- main-panel-content rounded-window-bottom -->
+          </div> <!-- suite-eCommerce-class-passed -->
+          <div class="suite-eCommerce-class-passed">
+            <div class="main-panel-header rounded-window-top">
+              <img src="passed.png"/>
+              <span class="class-name">com.DemoProjecteCommerce2TestCases.TC03_WebLogoHomePageTestCase_001</span>
+            </div> <!-- main-panel-header rounded-window-top -->
+            <div class="main-panel-content rounded-window-bottom">
+              <div class="method">
+                <div class="method-content">
+                  <a name="logoWebHomePageTest">
+                  </a> <!-- logoWebHomePageTest -->
+                  <span class="method-name">logoWebHomePageTest</span>
+                </div> <!-- method-content -->
+              </div> <!-- method -->
+            </div> <!-- main-panel-content rounded-window-bottom -->
+          </div> <!-- suite-eCommerce-class-passed -->
+          <div class="suite-eCommerce-class-passed">
+            <div class="main-panel-header rounded-window-top">
+              <img src="passed.png"/>
+              <span class="class-name">com.DemoProjecteCommerce2TestCases.TC04_CartImageHomePageTestCase_001</span>
+            </div> <!-- main-panel-header rounded-window-top -->
+            <div class="main-panel-content rounded-window-bottom">
+              <div class="method">
+                <div class="method-content">
+                  <a name="cartImageTestValidation">
+                  </a> <!-- cartImageTestValidation -->
+                  <span class="method-name">cartImageTestValidation</span>
+                </div> <!-- method-content -->
+              </div> <!-- method -->
+            </div> <!-- main-panel-content rounded-window-bottom -->
+          </div> <!-- suite-eCommerce-class-passed -->
+        </div> <!-- panel eCommerce -->
+        <div panel-name="test-xml-eCommerce" class="panel">
+          <div class="main-panel-header rounded-window-top">
+            <span class="header-content">C:\Users\rkamo\eclipse-workspace\DemoProjecteCommerce\TestNG.xml</span>
+          </div> <!-- main-panel-header rounded-window-top -->
+          <div class="main-panel-content rounded-window-bottom">
+            <pre>
+&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?&gt;
+&lt;!DOCTYPE suite SYSTEM &quot;https://testng.org/testng-1.0.dtd&quot;&gt;
+&lt;suite name=&quot;eCommerce&quot; guice-stage=&quot;DEVELOPMENT&quot; verbose=&quot;0&quot;&gt;
+  &lt;listeners&gt;
+    &lt;listener class-name=&quot;com.DemoProjecteCommerce2TestCases.Listeners&quot;/&gt;
+  &lt;/listeners&gt;
+  &lt;test thread-count=&quot;5&quot; name=&quot;eCommerceApp Test&quot; verbose=&quot;0&quot;&gt;
+    &lt;parameter name=&quot;browser&quot; value=&quot;chrome&quot;/&gt;
+    &lt;classes&gt;
+      &lt;class name=&quot;com.DemoProjecteCommerce2TestCases.TC0_WomenLinkTestCase_001&quot;/&gt;
+      &lt;class name=&quot;com.DemoProjecteCommerce2TestCases.TC01_DressesLinkTestCase_001&quot;/&gt;
+      &lt;class name=&quot;com.DemoProjecteCommerce2TestCases.TC02_TsShirtLinkHomePageTestCase_001&quot;/&gt;
+      &lt;class name=&quot;com.DemoProjecteCommerce2TestCases.TC03_WebLogoHomePageTestCase_001&quot;/&gt;
+      &lt;class name=&quot;com.DemoProjecteCommerce2TestCases.TC04_CartImageHomePageTestCase_001&quot;/&gt;
+      &lt;class name=&quot;com.DemoProjecteCommerce2TestCases.TC1_eCommerceLoginTestCase_001&quot;/&gt;
+      &lt;class name=&quot;com.DemoProjecteCommerce2TestCases.TC3_AddToCartItemTestCase_003&quot;/&gt;
+    &lt;/classes&gt;
+  &lt;/test&gt; &lt;!-- eCommerceApp Test --&gt;
+&lt;/suite&gt; &lt;!-- eCommerce --&gt;
+            </pre>
+          </div> <!-- main-panel-content rounded-window-bottom -->
+        </div> <!-- panel -->
+        <div panel-name="testlist-eCommerce" class="panel">
+          <div class="main-panel-header rounded-window-top">
+            <span class="header-content">Tests for eCommerce</span>
+          </div> <!-- main-panel-header rounded-window-top -->
+          <div class="main-panel-content rounded-window-bottom">
+            <ul>
+              <li>
+                <span class="test-name">eCommerceApp Test (7 classes)</span>
+              </li>
+            </ul>
+          </div> <!-- main-panel-content rounded-window-bottom -->
+        </div> <!-- panel -->
+        <div panel-name="group-eCommerce" class="panel">
+          <div class="main-panel-header rounded-window-top">
+            <span class="header-content">Groups for eCommerce</span>
+          </div> <!-- main-panel-header rounded-window-top -->
+          <div class="main-panel-content rounded-window-bottom">
+          </div> <!-- main-panel-content rounded-window-bottom -->
+        </div> <!-- panel -->
+        <div panel-name="times-eCommerce" class="panel">
+          <div class="main-panel-header rounded-window-top">
+            <span class="header-content">Times for eCommerce</span>
+          </div> <!-- main-panel-header rounded-window-top -->
+          <div class="main-panel-content rounded-window-bottom">
+            <div class="times-div">
+              <script type="text/javascript">
+suiteTableInitFunctions.push('tableData_eCommerce');
+function tableData_eCommerce() {
+var data = new google.visualization.DataTable();
+data.addColumn('number', 'Number');
+data.addColumn('string', 'Method');
+data.addColumn('string', 'Class');
+data.addColumn('number', 'Time (ms)');
+data.addRows(8);
+data.setCell(0, 0, 0)
+data.setCell(0, 1, 'addToCartTest')
+data.setCell(0, 2, 'com.DemoProjecteCommerce2TestCases.TC3_AddToCartItemTestCase_003')
+data.setCell(0, 3, 24046);
+data.setCell(1, 0, 1)
+data.setCell(1, 1, 'addToCard')
+data.setCell(1, 2, 'com.DemoProjecteCommerce2TestCases.TC1_eCommerceLoginTestCase_001')
+data.setCell(1, 3, 22535);
+data.setCell(2, 0, 2)
+data.setCell(2, 1, 'loginTest')
+data.setCell(2, 2, 'com.DemoProjecteCommerce2TestCases.TC1_eCommerceLoginTestCase_001')
+data.setCell(2, 3, 12956);
+data.setCell(3, 0, 3)
+data.setCell(3, 1, 'dressesLinkHomePageValidation')
+data.setCell(3, 2, 'com.DemoProjecteCommerce2TestCases.TC01_DressesLinkTestCase_001')
+data.setCell(3, 3, 1284);
+data.setCell(4, 0, 4)
+data.setCell(4, 1, 'womenLinkHomePageTest')
+data.setCell(4, 2, 'com.DemoProjecteCommerce2TestCases.TC0_WomenLinkTestCase_001')
+data.setCell(4, 3, 1182);
+data.setCell(5, 0, 5)
+data.setCell(5, 1, 'tsShirtLinkHomePageTest')
+data.setCell(5, 2, 'com.DemoProjecteCommerce2TestCases.TC02_TsShirtLinkHomePageTestCase_001')
+data.setCell(5, 3, 1025);
+data.setCell(6, 0, 6)
+data.setCell(6, 1, 'cartImageTestValidation')
+data.setCell(6, 2, 'com.DemoProjecteCommerce2TestCases.TC04_CartImageHomePageTestCase_001')
+data.setCell(6, 3, 613);
+data.setCell(7, 0, 7)
+data.setCell(7, 1, 'logoWebHomePageTest')
+data.setCell(7, 2, 'com.DemoProjecteCommerce2TestCases.TC03_WebLogoHomePageTestCase_001')
+data.setCell(7, 3, 47);
+window.suiteTableData['eCommerce']= { tableData: data, tableDiv: 'times-div-eCommerce'}
+return data;
+}
+              </script>
+              <span class="suite-total-time">Total running time: 1 minutes</span>
+              <div id="times-div-eCommerce">
+              </div> <!-- times-div-eCommerce -->
+            </div> <!-- times-div -->
+          </div> <!-- main-panel-content rounded-window-bottom -->
+        </div> <!-- panel -->
+        <div panel-name="reporter-eCommerce" class="panel">
+          <div class="main-panel-header rounded-window-top">
+            <span class="header-content">Reporter output for eCommerce</span>
+          </div> <!-- main-panel-header rounded-window-top -->
+          <div class="main-panel-content rounded-window-bottom">
+          </div> <!-- main-panel-content rounded-window-bottom -->
+        </div> <!-- panel -->
+        <div panel-name="ignored-methods-eCommerce" class="panel">
+          <div class="main-panel-header rounded-window-top">
+            <span class="header-content">0 ignored methods</span>
+          </div> <!-- main-panel-header rounded-window-top -->
+          <div class="main-panel-content rounded-window-bottom">
+          </div> <!-- main-panel-content rounded-window-bottom -->
+        </div> <!-- panel -->
+        <div panel-name="chronological-eCommerce" class="panel">
+          <div class="main-panel-header rounded-window-top">
+            <span class="header-content">Methods in chronological order</span>
+          </div> <!-- main-panel-header rounded-window-top -->
+          <div class="main-panel-content rounded-window-bottom">
+            <div class="chronological-class">
+              <div class="chronological-class-name">com.DemoProjecteCommerce2TestCases.TC0_WomenLinkTestCase_001</div> <!-- chronological-class-name -->
+              <div class="configuration-class before">
+                <span class="method-name">setup(chrome)</span>
+                <span class="method-start">0 ms</span>
+              </div> <!-- configuration-class before -->
+              <div class="test-method">
+                <img src="failed.png">
+                </img>
+                <span class="method-name">womenLinkHomePageTest</span>
+                <span class="method-start">6921 ms</span>
+              </div> <!-- test-method -->
+              <div class="configuration-class after">
+                <span class="method-name">tearDown</span>
+                <span class="method-start">8455 ms</span>
+              </div> <!-- configuration-class after -->
+            </div> <!-- chronological-class -->
+            <div class="chronological-class">
+              <div class="chronological-class-name">com.DemoProjecteCommerce2TestCases.TC01_DressesLinkTestCase_001</div> <!-- chronological-class-name -->
+              <div class="configuration-class before">
+                <span class="method-name">setup(chrome)</span>
+                <span class="method-start">9071 ms</span>
+              </div> <!-- configuration-class before -->
+              <div class="test-method">
+                <span class="method-name">dressesLinkHomePageValidation</span>
+                <span class="method-start">15650 ms</span>
+              </div> <!-- test-method -->
+              <div class="configuration-class after">
+                <span class="method-name">tearDown</span>
+                <span class="method-start">16935 ms</span>
+              </div> <!-- configuration-class after -->
+            </div> <!-- chronological-class -->
+            <div class="chronological-class">
+              <div class="chronological-class-name">com.DemoProjecteCommerce2TestCases.TC02_TsShirtLinkHomePageTestCase_001</div> <!-- chronological-class-name -->
+              <div class="configuration-class before">
+                <span class="method-name">setup(chrome)</span>
+                <span class="method-start">17517 ms</span>
+              </div> <!-- configuration-class before -->
+              <div class="test-method">
+                <span class="method-name">tsShirtLinkHomePageTest</span>
+                <span class="method-start">24521 ms</span>
+              </div> <!-- test-method -->
+              <div class="configuration-class after">
+                <span class="method-name">tearDown</span>
+                <span class="method-start">25546 ms</span>
+              </div> <!-- configuration-class after -->
+            </div> <!-- chronological-class -->
+            <div class="chronological-class">
+              <div class="chronological-class-name">com.DemoProjecteCommerce2TestCases.TC03_WebLogoHomePageTestCase_001</div> <!-- chronological-class-name -->
+              <div class="configuration-class before">
+                <span class="method-name">setup(chrome)</span>
+                <span class="method-start">26132 ms</span>
+              </div> <!-- configuration-class before -->
+              <div class="test-method">
+                <span class="method-name">logoWebHomePageTest</span>
+                <span class="method-start">32685 ms</span>
+              </div> <!-- test-method -->
+              <div class="configuration-class after">
+                <span class="method-name">tearDown</span>
+                <span class="method-start">32733 ms</span>
+              </div> <!-- configuration-class after -->
+            </div> <!-- chronological-class -->
+            <div class="chronological-class">
+              <div class="chronological-class-name">com.DemoProjecteCommerce2TestCases.TC04_CartImageHomePageTestCase_001</div> <!-- chronological-class-name -->
+              <div class="configuration-class before">
+                <span class="method-name">setup(chrome)</span>
+                <span class="method-start">33321 ms</span>
+              </div> <!-- configuration-class before -->
+              <div class="test-method">
+                <span class="method-name">cartImageTestValidation</span>
+                <span class="method-start">39941 ms</span>
+              </div> <!-- test-method -->
+              <div class="configuration-class after">
+                <span class="method-name">tearDown</span>
+                <span class="method-start">40554 ms</span>
+              </div> <!-- configuration-class after -->
+            </div> <!-- chronological-class -->
+            <div class="chronological-class">
+              <div class="chronological-class-name">com.DemoProjecteCommerce2TestCases.TC1_eCommerceLoginTestCase_001</div> <!-- chronological-class-name -->
+              <div class="configuration-class before">
+                <span class="method-name">setup(chrome)</span>
+                <span class="method-start">41142 ms</span>
+              </div> <!-- configuration-class before -->
+              <div class="test-method">
+                <span class="method-name">addToCard</span>
+                <span class="method-start">49432 ms</span>
+              </div> <!-- test-method -->
+              <div class="test-method">
+                <span class="method-name">loginTest</span>
+                <span class="method-start">71968 ms</span>
+              </div> <!-- test-method -->
+              <div class="configuration-class after">
+                <span class="method-name">tearDown</span>
+                <span class="method-start">84925 ms</span>
+              </div> <!-- configuration-class after -->
+            </div> <!-- chronological-class -->
+            <div class="chronological-class">
+              <div class="chronological-class-name">com.DemoProjecteCommerce2TestCases.TC3_AddToCartItemTestCase_003</div> <!-- chronological-class-name -->
+              <div class="configuration-class before">
+                <span class="method-name">setup(chrome)</span>
+                <span class="method-start">85519 ms</span>
+              </div> <!-- configuration-class before -->
+              <div class="test-method">
+                <span class="method-name">addToCartTest</span>
+                <span class="method-start">91893 ms</span>
+              </div> <!-- test-method -->
+              <div class="configuration-class after">
+                <span class="method-name">tearDown</span>
+                <span class="method-start">115939 ms</span>
+              </div> <!-- configuration-class after -->
+          </div> <!-- main-panel-content rounded-window-bottom -->
+        </div> <!-- panel -->
+      </div> <!-- main-panel-root -->
+    </div> <!-- wrapper -->
+  </body>
+</html>
