@@ -1,3 +1,6 @@
 This is a message test to validate my remote repository works. 
 In fact I'm testing the pull action from remote repository to 
 local repository.
+
+I'm adding this new line in order to test the push action 
+from Eclipse to the remote repository. 
