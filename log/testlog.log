@@ -3887,3 +3887,443 @@
 2020-11-13 01:39:43,789 - freemarker.cache -DEBUG - TemplateLoader.findTemplateSource("commons/commons-inject-js_en.ftl"): Not found
 2020-11-13 01:39:43,789 - freemarker.cache -DEBUG - TemplateLoader.findTemplateSource("commons/commons-inject-js.ftl"): Found
 2020-11-13 01:39:43,789 - freemarker.cache -DEBUG - Loading template for "commons/commons-inject-js.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/rkamo/.m2/repository/com/aventstack/extentreports/4.1.4/extentreports-4.1.4.jar!/com/aventstack/extentreports/view/commons/commons-inject-js.ftl"
+2020-11-13 07:27:46,365 - freemarker.cache -DEBUG - Couldn't find template in cache for "spark/spark.spa.ftl"("en_US", UTF-8, parsed); will try to load it.
+2020-11-13 07:27:46,367 - freemarker.cache -DEBUG - TemplateLoader.findTemplateSource("spark/spark.spa_en_US.ftl"): Not found
+2020-11-13 07:27:46,368 - freemarker.cache -DEBUG - TemplateLoader.findTemplateSource("spark/spark.spa_en.ftl"): Not found
+2020-11-13 07:27:46,369 - freemarker.cache -DEBUG - TemplateLoader.findTemplateSource("spark/spark.spa.ftl"): Found
+2020-11-13 07:27:46,369 - freemarker.cache -DEBUG - Loading template for "spark/spark.spa.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/rkamo/.m2/repository/com/aventstack/extentreports/4.1.4/extentreports-4.1.4.jar!/com/aventstack/extentreports/view/spark/spark.spa.ftl"
+2020-11-13 07:27:46,446 - freemarker.cache -DEBUG - Couldn't find template in cache for "commons/commons-variables.ftl"("en_US", UTF-8, parsed); will try to load it.
+2020-11-13 07:27:46,447 - freemarker.cache -DEBUG - TemplateLoader.findTemplateSource("commons/commons-variables_en_US.ftl"): Not found
+2020-11-13 07:27:46,447 - freemarker.cache -DEBUG - TemplateLoader.findTemplateSource("commons/commons-variables_en.ftl"): Not found
+2020-11-13 07:27:46,448 - freemarker.cache -DEBUG - TemplateLoader.findTemplateSource("commons/commons-variables.ftl"): Found
+2020-11-13 07:27:46,448 - freemarker.cache -DEBUG - Loading template for "commons/commons-variables.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/rkamo/.m2/repository/com/aventstack/extentreports/4.1.4/extentreports-4.1.4.jar!/com/aventstack/extentreports/view/commons/commons-variables.ftl"
+2020-11-13 07:27:46,477 - freemarker.cache -DEBUG - Couldn't find template in cache for "commons/commons-macros.ftl"("en_US", UTF-8, parsed); will try to load it.
+2020-11-13 07:27:46,478 - freemarker.cache -DEBUG - TemplateLoader.findTemplateSource("commons/commons-macros_en_US.ftl"): Not found
+2020-11-13 07:27:46,478 - freemarker.cache -DEBUG - TemplateLoader.findTemplateSource("commons/commons-macros_en.ftl"): Not found
+2020-11-13 07:27:46,478 - freemarker.cache -DEBUG - TemplateLoader.findTemplateSource("commons/commons-macros.ftl"): Found
+2020-11-13 07:27:46,478 - freemarker.cache -DEBUG - Loading template for "commons/commons-macros.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/rkamo/.m2/repository/com/aventstack/extentreports/4.1.4/extentreports-4.1.4.jar!/com/aventstack/extentreports/view/commons/commons-macros.ftl"
+2020-11-13 07:27:46,484 - freemarker.cache -DEBUG - Couldn't find template in cache for "spark/macros/attributes.ftl"("en_US", UTF-8, parsed); will try to load it.
+2020-11-13 07:27:46,485 - freemarker.cache -DEBUG - TemplateLoader.findTemplateSource("spark/macros/attributes_en_US.ftl"): Not found
+2020-11-13 07:27:46,486 - freemarker.cache -DEBUG - TemplateLoader.findTemplateSource("spark/macros/attributes_en.ftl"): Not found
+2020-11-13 07:27:46,486 - freemarker.cache -DEBUG - TemplateLoader.findTemplateSource("spark/macros/attributes.ftl"): Found
+2020-11-13 07:27:46,486 - freemarker.cache -DEBUG - Loading template for "spark/macros/attributes.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/rkamo/.m2/repository/com/aventstack/extentreports/4.1.4/extentreports-4.1.4.jar!/com/aventstack/extentreports/view/spark/macros/attributes.ftl"
+2020-11-13 07:27:46,487 - freemarker.cache -DEBUG - Couldn't find template in cache for "spark/macros/log.ftl"("en_US", UTF-8, parsed); will try to load it.
+2020-11-13 07:27:46,488 - freemarker.cache -DEBUG - TemplateLoader.findTemplateSource("spark/macros/log_en_US.ftl"): Not found
+2020-11-13 07:27:46,488 - freemarker.cache -DEBUG - TemplateLoader.findTemplateSource("spark/macros/log_en.ftl"): Not found
+2020-11-13 07:27:46,488 - freemarker.cache -DEBUG - TemplateLoader.findTemplateSource("spark/macros/log.ftl"): Found
+2020-11-13 07:27:46,488 - freemarker.cache -DEBUG - Loading template for "spark/macros/log.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/rkamo/.m2/repository/com/aventstack/extentreports/4.1.4/extentreports-4.1.4.jar!/com/aventstack/extentreports/view/spark/macros/log.ftl"
+2020-11-13 07:27:46,490 - freemarker.cache -DEBUG - Couldn't find template in cache for "spark/macros/recurse_nodes.ftl"("en_US", UTF-8, parsed); will try to load it.
+2020-11-13 07:27:46,490 - freemarker.cache -DEBUG - TemplateLoader.findTemplateSource("spark/macros/recurse_nodes_en_US.ftl"): Not found
+2020-11-13 07:27:46,490 - freemarker.cache -DEBUG - TemplateLoader.findTemplateSource("spark/macros/recurse_nodes_en.ftl"): Not found
+2020-11-13 07:27:46,491 - freemarker.cache -DEBUG - TemplateLoader.findTemplateSource("spark/macros/recurse_nodes.ftl"): Found
+2020-11-13 07:27:46,491 - freemarker.cache -DEBUG - Loading template for "spark/macros/recurse_nodes.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/rkamo/.m2/repository/com/aventstack/extentreports/4.1.4/extentreports-4.1.4.jar!/com/aventstack/extentreports/view/spark/macros/recurse_nodes.ftl"
+2020-11-13 07:27:46,492 - freemarker.cache -DEBUG - "spark/macros/log.ftl"("en_US", UTF-8, parsed) cached copy not yet stale; using cached.
+2020-11-13 07:27:46,495 - freemarker.cache -DEBUG - Couldn't find template in cache for "spark/partials/head.ftl"("en_US", UTF-8, parsed); will try to load it.
+2020-11-13 07:27:46,496 - freemarker.cache -DEBUG - TemplateLoader.findTemplateSource("spark/partials/head_en_US.ftl"): Not found
+2020-11-13 07:27:46,496 - freemarker.cache -DEBUG - TemplateLoader.findTemplateSource("spark/partials/head_en.ftl"): Not found
+2020-11-13 07:27:46,496 - freemarker.cache -DEBUG - TemplateLoader.findTemplateSource("spark/partials/head.ftl"): Found
+2020-11-13 07:27:46,497 - freemarker.cache -DEBUG - Loading template for "spark/partials/head.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/rkamo/.m2/repository/com/aventstack/extentreports/4.1.4/extentreports-4.1.4.jar!/com/aventstack/extentreports/view/spark/partials/head.ftl"
+2020-11-13 07:27:46,498 - freemarker.cache -DEBUG - Couldn't find template in cache for "commons/commons-inject-css.ftl"("en_US", UTF-8, parsed); will try to load it.
+2020-11-13 07:27:46,499 - freemarker.cache -DEBUG - TemplateLoader.findTemplateSource("commons/commons-inject-css_en_US.ftl"): Not found
+2020-11-13 07:27:46,499 - freemarker.cache -DEBUG - TemplateLoader.findTemplateSource("commons/commons-inject-css_en.ftl"): Not found
+2020-11-13 07:27:46,499 - freemarker.cache -DEBUG - TemplateLoader.findTemplateSource("commons/commons-inject-css.ftl"): Found
+2020-11-13 07:27:46,499 - freemarker.cache -DEBUG - Loading template for "commons/commons-inject-css.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/rkamo/.m2/repository/com/aventstack/extentreports/4.1.4/extentreports-4.1.4.jar!/com/aventstack/extentreports/view/commons/commons-inject-css.ftl"
+2020-11-13 07:27:46,500 - freemarker.cache -DEBUG - Couldn't find template in cache for "spark/partials/navbar.ftl"("en_US", UTF-8, parsed); will try to load it.
+2020-11-13 07:27:46,500 - freemarker.cache -DEBUG - TemplateLoader.findTemplateSource("spark/partials/navbar_en_US.ftl"): Not found
+2020-11-13 07:27:46,501 - freemarker.cache -DEBUG - TemplateLoader.findTemplateSource("spark/partials/navbar_en.ftl"): Not found
+2020-11-13 07:27:46,501 - freemarker.cache -DEBUG - TemplateLoader.findTemplateSource("spark/partials/navbar.ftl"): Found
+2020-11-13 07:27:46,501 - freemarker.cache -DEBUG - Loading template for "spark/partials/navbar.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/rkamo/.m2/repository/com/aventstack/extentreports/4.1.4/extentreports-4.1.4.jar!/com/aventstack/extentreports/view/spark/partials/navbar.ftl"
+2020-11-13 07:27:46,507 - freemarker.cache -DEBUG - Couldn't find template in cache for "spark/partials/sidenav.ftl"("en_US", UTF-8, parsed); will try to load it.
+2020-11-13 07:27:46,507 - freemarker.cache -DEBUG - TemplateLoader.findTemplateSource("spark/partials/sidenav_en_US.ftl"): Not found
+2020-11-13 07:27:46,508 - freemarker.cache -DEBUG - TemplateLoader.findTemplateSource("spark/partials/sidenav_en.ftl"): Not found
+2020-11-13 07:27:46,508 - freemarker.cache -DEBUG - TemplateLoader.findTemplateSource("spark/partials/sidenav.ftl"): Found
+2020-11-13 07:27:46,508 - freemarker.cache -DEBUG - Loading template for "spark/partials/sidenav.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/rkamo/.m2/repository/com/aventstack/extentreports/4.1.4/extentreports-4.1.4.jar!/com/aventstack/extentreports/view/spark/partials/sidenav.ftl"
+2020-11-13 07:27:46,510 - freemarker.cache -DEBUG - Couldn't find template in cache for "spark/partials/test.ftl"("en_US", UTF-8, parsed); will try to load it.
+2020-11-13 07:27:46,510 - freemarker.cache -DEBUG - TemplateLoader.findTemplateSource("spark/partials/test_en_US.ftl"): Not found
+2020-11-13 07:27:46,511 - freemarker.cache -DEBUG - TemplateLoader.findTemplateSource("spark/partials/test_en.ftl"): Not found
+2020-11-13 07:27:46,511 - freemarker.cache -DEBUG - TemplateLoader.findTemplateSource("spark/partials/test.ftl"): Found
+2020-11-13 07:27:46,511 - freemarker.cache -DEBUG - Loading template for "spark/partials/test.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/rkamo/.m2/repository/com/aventstack/extentreports/4.1.4/extentreports-4.1.4.jar!/com/aventstack/extentreports/view/spark/partials/test.ftl"
+2020-11-13 07:27:46,524 - freemarker.cache -DEBUG - Couldn't find template in cache for "spark/partials/standard-content.ftl"("en_US", UTF-8, parsed); will try to load it.
+2020-11-13 07:27:46,525 - freemarker.cache -DEBUG - TemplateLoader.findTemplateSource("spark/partials/standard-content_en_US.ftl"): Not found
+2020-11-13 07:27:46,525 - freemarker.cache -DEBUG - TemplateLoader.findTemplateSource("spark/partials/standard-content_en.ftl"): Not found
+2020-11-13 07:27:46,526 - freemarker.cache -DEBUG - TemplateLoader.findTemplateSource("spark/partials/standard-content.ftl"): Found
+2020-11-13 07:27:46,526 - freemarker.cache -DEBUG - Loading template for "spark/partials/standard-content.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/rkamo/.m2/repository/com/aventstack/extentreports/4.1.4/extentreports-4.1.4.jar!/com/aventstack/extentreports/view/spark/partials/standard-content.ftl"
+2020-11-13 07:27:46,533 - freemarker.cache -DEBUG - "spark/partials/standard-content.ftl"("en_US", UTF-8, parsed) cached copy not yet stale; using cached.
+2020-11-13 07:27:46,533 - freemarker.cache -DEBUG - "spark/partials/standard-content.ftl"("en_US", UTF-8, parsed) cached copy not yet stale; using cached.
+2020-11-13 07:27:46,534 - freemarker.cache -DEBUG - "spark/partials/standard-content.ftl"("en_US", UTF-8, parsed) cached copy not yet stale; using cached.
+2020-11-13 07:27:46,535 - freemarker.cache -DEBUG - "spark/partials/standard-content.ftl"("en_US", UTF-8, parsed) cached copy not yet stale; using cached.
+2020-11-13 07:27:46,535 - freemarker.cache -DEBUG - "spark/partials/standard-content.ftl"("en_US", UTF-8, parsed) cached copy not yet stale; using cached.
+2020-11-13 07:27:46,536 - freemarker.cache -DEBUG - "spark/partials/standard-content.ftl"("en_US", UTF-8, parsed) cached copy not yet stale; using cached.
+2020-11-13 07:27:46,537 - freemarker.cache -DEBUG - "spark/partials/standard-content.ftl"("en_US", UTF-8, parsed) cached copy not yet stale; using cached.
+2020-11-13 07:27:46,537 - freemarker.cache -DEBUG - Couldn't find template in cache for "spark/partials/exception.ftl"("en_US", UTF-8, parsed); will try to load it.
+2020-11-13 07:27:46,538 - freemarker.cache -DEBUG - TemplateLoader.findTemplateSource("spark/partials/exception_en_US.ftl"): Not found
+2020-11-13 07:27:46,538 - freemarker.cache -DEBUG - TemplateLoader.findTemplateSource("spark/partials/exception_en.ftl"): Not found
+2020-11-13 07:27:46,538 - freemarker.cache -DEBUG - TemplateLoader.findTemplateSource("spark/partials/exception.ftl"): Found
+2020-11-13 07:27:46,539 - freemarker.cache -DEBUG - Loading template for "spark/partials/exception.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/rkamo/.m2/repository/com/aventstack/extentreports/4.1.4/extentreports-4.1.4.jar!/com/aventstack/extentreports/view/spark/partials/exception.ftl"
+2020-11-13 07:27:46,542 - freemarker.cache -DEBUG - Couldn't find template in cache for "spark/partials/dashboard.ftl"("en_US", UTF-8, parsed); will try to load it.
+2020-11-13 07:27:46,542 - freemarker.cache -DEBUG - TemplateLoader.findTemplateSource("spark/partials/dashboard_en_US.ftl"): Not found
+2020-11-13 07:27:46,542 - freemarker.cache -DEBUG - TemplateLoader.findTemplateSource("spark/partials/dashboard_en.ftl"): Not found
+2020-11-13 07:27:46,543 - freemarker.cache -DEBUG - TemplateLoader.findTemplateSource("spark/partials/dashboard.ftl"): Found
+2020-11-13 07:27:46,543 - freemarker.cache -DEBUG - Loading template for "spark/partials/dashboard.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/rkamo/.m2/repository/com/aventstack/extentreports/4.1.4/extentreports-4.1.4.jar!/com/aventstack/extentreports/view/spark/partials/dashboard.ftl"
+2020-11-13 07:27:46,571 - freemarker.cache -DEBUG - Couldn't find template in cache for "spark/partials/scripts.ftl"("en_US", UTF-8, parsed); will try to load it.
+2020-11-13 07:27:46,571 - freemarker.cache -DEBUG - TemplateLoader.findTemplateSource("spark/partials/scripts_en_US.ftl"): Not found
+2020-11-13 07:27:46,572 - freemarker.cache -DEBUG - TemplateLoader.findTemplateSource("spark/partials/scripts_en.ftl"): Not found
+2020-11-13 07:27:46,572 - freemarker.cache -DEBUG - TemplateLoader.findTemplateSource("spark/partials/scripts.ftl"): Found
+2020-11-13 07:27:46,572 - freemarker.cache -DEBUG - Loading template for "spark/partials/scripts.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/rkamo/.m2/repository/com/aventstack/extentreports/4.1.4/extentreports-4.1.4.jar!/com/aventstack/extentreports/view/spark/partials/scripts.ftl"
+2020-11-13 07:27:46,580 - freemarker.cache -DEBUG - Couldn't find template in cache for "commons/commons-inject-js.ftl"("en_US", UTF-8, parsed); will try to load it.
+2020-11-13 07:27:46,581 - freemarker.cache -DEBUG - TemplateLoader.findTemplateSource("commons/commons-inject-js_en_US.ftl"): Not found
+2020-11-13 07:27:46,582 - freemarker.cache -DEBUG - TemplateLoader.findTemplateSource("commons/commons-inject-js_en.ftl"): Not found
+2020-11-13 07:27:46,583 - freemarker.cache -DEBUG - TemplateLoader.findTemplateSource("commons/commons-inject-js.ftl"): Found
+2020-11-13 07:27:46,583 - freemarker.cache -DEBUG - Loading template for "commons/commons-inject-js.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/rkamo/.m2/repository/com/aventstack/extentreports/4.1.4/extentreports-4.1.4.jar!/com/aventstack/extentreports/view/commons/commons-inject-js.ftl"
+2020-11-13 08:15:55,964 - freemarker.cache -DEBUG - Couldn't find template in cache for "spark/spark.spa.ftl"("en_US", UTF-8, parsed); will try to load it.
+2020-11-13 08:15:55,966 - freemarker.cache -DEBUG - TemplateLoader.findTemplateSource("spark/spark.spa_en_US.ftl"): Not found
+2020-11-13 08:15:55,967 - freemarker.cache -DEBUG - TemplateLoader.findTemplateSource("spark/spark.spa_en.ftl"): Not found
+2020-11-13 08:15:55,968 - freemarker.cache -DEBUG - TemplateLoader.findTemplateSource("spark/spark.spa.ftl"): Found
+2020-11-13 08:15:55,968 - freemarker.cache -DEBUG - Loading template for "spark/spark.spa.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/windows/system32/config/systemprofile/.m2/repository/com/aventstack/extentreports/4.1.4/extentreports-4.1.4.jar!/com/aventstack/extentreports/view/spark/spark.spa.ftl"
+2020-11-13 08:15:56,062 - freemarker.cache -DEBUG - Couldn't find template in cache for "commons/commons-variables.ftl"("en_US", UTF-8, parsed); will try to load it.
+2020-11-13 08:15:56,062 - freemarker.cache -DEBUG - TemplateLoader.findTemplateSource("commons/commons-variables_en_US.ftl"): Not found
+2020-11-13 08:15:56,063 - freemarker.cache -DEBUG - TemplateLoader.findTemplateSource("commons/commons-variables_en.ftl"): Not found
+2020-11-13 08:15:56,063 - freemarker.cache -DEBUG - TemplateLoader.findTemplateSource("commons/commons-variables.ftl"): Found
+2020-11-13 08:15:56,063 - freemarker.cache -DEBUG - Loading template for "commons/commons-variables.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/windows/system32/config/systemprofile/.m2/repository/com/aventstack/extentreports/4.1.4/extentreports-4.1.4.jar!/com/aventstack/extentreports/view/commons/commons-variables.ftl"
+2020-11-13 08:15:56,100 - freemarker.cache -DEBUG - Couldn't find template in cache for "commons/commons-macros.ftl"("en_US", UTF-8, parsed); will try to load it.
+2020-11-13 08:15:56,100 - freemarker.cache -DEBUG - TemplateLoader.findTemplateSource("commons/commons-macros_en_US.ftl"): Not found
+2020-11-13 08:15:56,101 - freemarker.cache -DEBUG - TemplateLoader.findTemplateSource("commons/commons-macros_en.ftl"): Not found
+2020-11-13 08:15:56,101 - freemarker.cache -DEBUG - TemplateLoader.findTemplateSource("commons/commons-macros.ftl"): Found
+2020-11-13 08:15:56,101 - freemarker.cache -DEBUG - Loading template for "commons/commons-macros.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/windows/system32/config/systemprofile/.m2/repository/com/aventstack/extentreports/4.1.4/extentreports-4.1.4.jar!/com/aventstack/extentreports/view/commons/commons-macros.ftl"
+2020-11-13 08:15:56,110 - freemarker.cache -DEBUG - Couldn't find template in cache for "spark/macros/attributes.ftl"("en_US", UTF-8, parsed); will try to load it.
+2020-11-13 08:15:56,111 - freemarker.cache -DEBUG - TemplateLoader.findTemplateSource("spark/macros/attributes_en_US.ftl"): Not found
+2020-11-13 08:15:56,111 - freemarker.cache -DEBUG - TemplateLoader.findTemplateSource("spark/macros/attributes_en.ftl"): Not found
+2020-11-13 08:15:56,111 - freemarker.cache -DEBUG - TemplateLoader.findTemplateSource("spark/macros/attributes.ftl"): Found
+2020-11-13 08:15:56,112 - freemarker.cache -DEBUG - Loading template for "spark/macros/attributes.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/windows/system32/config/systemprofile/.m2/repository/com/aventstack/extentreports/4.1.4/extentreports-4.1.4.jar!/com/aventstack/extentreports/view/spark/macros/attributes.ftl"
+2020-11-13 08:15:56,113 - freemarker.cache -DEBUG - Couldn't find template in cache for "spark/macros/log.ftl"("en_US", UTF-8, parsed); will try to load it.
+2020-11-13 08:15:56,113 - freemarker.cache -DEBUG - TemplateLoader.findTemplateSource("spark/macros/log_en_US.ftl"): Not found
+2020-11-13 08:15:56,114 - freemarker.cache -DEBUG - TemplateLoader.findTemplateSource("spark/macros/log_en.ftl"): Not found
+2020-11-13 08:15:56,114 - freemarker.cache -DEBUG - TemplateLoader.findTemplateSource("spark/macros/log.ftl"): Found
+2020-11-13 08:15:56,114 - freemarker.cache -DEBUG - Loading template for "spark/macros/log.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/windows/system32/config/systemprofile/.m2/repository/com/aventstack/extentreports/4.1.4/extentreports-4.1.4.jar!/com/aventstack/extentreports/view/spark/macros/log.ftl"
+2020-11-13 08:15:56,115 - freemarker.cache -DEBUG - Couldn't find template in cache for "spark/macros/recurse_nodes.ftl"("en_US", UTF-8, parsed); will try to load it.
+2020-11-13 08:15:56,115 - freemarker.cache -DEBUG - TemplateLoader.findTemplateSource("spark/macros/recurse_nodes_en_US.ftl"): Not found
+2020-11-13 08:15:56,116 - freemarker.cache -DEBUG - TemplateLoader.findTemplateSource("spark/macros/recurse_nodes_en.ftl"): Not found
+2020-11-13 08:15:56,116 - freemarker.cache -DEBUG - TemplateLoader.findTemplateSource("spark/macros/recurse_nodes.ftl"): Found
+2020-11-13 08:15:56,116 - freemarker.cache -DEBUG - Loading template for "spark/macros/recurse_nodes.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/windows/system32/config/systemprofile/.m2/repository/com/aventstack/extentreports/4.1.4/extentreports-4.1.4.jar!/com/aventstack/extentreports/view/spark/macros/recurse_nodes.ftl"
+2020-11-13 08:15:56,118 - freemarker.cache -DEBUG - "spark/macros/log.ftl"("en_US", UTF-8, parsed) cached copy not yet stale; using cached.
+2020-11-13 08:15:56,123 - freemarker.cache -DEBUG - Couldn't find template in cache for "spark/partials/head.ftl"("en_US", UTF-8, parsed); will try to load it.
+2020-11-13 08:15:56,124 - freemarker.cache -DEBUG - TemplateLoader.findTemplateSource("spark/partials/head_en_US.ftl"): Not found
+2020-11-13 08:15:56,125 - freemarker.cache -DEBUG - TemplateLoader.findTemplateSource("spark/partials/head_en.ftl"): Not found
+2020-11-13 08:15:56,126 - freemarker.cache -DEBUG - TemplateLoader.findTemplateSource("spark/partials/head.ftl"): Found
+2020-11-13 08:15:56,126 - freemarker.cache -DEBUG - Loading template for "spark/partials/head.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/windows/system32/config/systemprofile/.m2/repository/com/aventstack/extentreports/4.1.4/extentreports-4.1.4.jar!/com/aventstack/extentreports/view/spark/partials/head.ftl"
+2020-11-13 08:15:56,128 - freemarker.cache -DEBUG - Couldn't find template in cache for "commons/commons-inject-css.ftl"("en_US", UTF-8, parsed); will try to load it.
+2020-11-13 08:15:56,128 - freemarker.cache -DEBUG - TemplateLoader.findTemplateSource("commons/commons-inject-css_en_US.ftl"): Not found
+2020-11-13 08:15:56,128 - freemarker.cache -DEBUG - TemplateLoader.findTemplateSource("commons/commons-inject-css_en.ftl"): Not found
+2020-11-13 08:15:56,129 - freemarker.cache -DEBUG - TemplateLoader.findTemplateSource("commons/commons-inject-css.ftl"): Found
+2020-11-13 08:15:56,129 - freemarker.cache -DEBUG - Loading template for "commons/commons-inject-css.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/windows/system32/config/systemprofile/.m2/repository/com/aventstack/extentreports/4.1.4/extentreports-4.1.4.jar!/com/aventstack/extentreports/view/commons/commons-inject-css.ftl"
+2020-11-13 08:15:56,130 - freemarker.cache -DEBUG - Couldn't find template in cache for "spark/partials/navbar.ftl"("en_US", UTF-8, parsed); will try to load it.
+2020-11-13 08:15:56,130 - freemarker.cache -DEBUG - TemplateLoader.findTemplateSource("spark/partials/navbar_en_US.ftl"): Not found
+2020-11-13 08:15:56,130 - freemarker.cache -DEBUG - TemplateLoader.findTemplateSource("spark/partials/navbar_en.ftl"): Not found
+2020-11-13 08:15:56,130 - freemarker.cache -DEBUG - TemplateLoader.findTemplateSource("spark/partials/navbar.ftl"): Found
+2020-11-13 08:15:56,131 - freemarker.cache -DEBUG - Loading template for "spark/partials/navbar.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/windows/system32/config/systemprofile/.m2/repository/com/aventstack/extentreports/4.1.4/extentreports-4.1.4.jar!/com/aventstack/extentreports/view/spark/partials/navbar.ftl"
+2020-11-13 08:15:56,137 - freemarker.cache -DEBUG - Couldn't find template in cache for "spark/partials/sidenav.ftl"("en_US", UTF-8, parsed); will try to load it.
+2020-11-13 08:15:56,138 - freemarker.cache -DEBUG - TemplateLoader.findTemplateSource("spark/partials/sidenav_en_US.ftl"): Not found
+2020-11-13 08:15:56,138 - freemarker.cache -DEBUG - TemplateLoader.findTemplateSource("spark/partials/sidenav_en.ftl"): Not found
+2020-11-13 08:15:56,139 - freemarker.cache -DEBUG - TemplateLoader.findTemplateSource("spark/partials/sidenav.ftl"): Found
+2020-11-13 08:15:56,139 - freemarker.cache -DEBUG - Loading template for "spark/partials/sidenav.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/windows/system32/config/systemprofile/.m2/repository/com/aventstack/extentreports/4.1.4/extentreports-4.1.4.jar!/com/aventstack/extentreports/view/spark/partials/sidenav.ftl"
+2020-11-13 08:15:56,140 - freemarker.cache -DEBUG - Couldn't find template in cache for "spark/partials/test.ftl"("en_US", UTF-8, parsed); will try to load it.
+2020-11-13 08:15:56,141 - freemarker.cache -DEBUG - TemplateLoader.findTemplateSource("spark/partials/test_en_US.ftl"): Not found
+2020-11-13 08:15:56,141 - freemarker.cache -DEBUG - TemplateLoader.findTemplateSource("spark/partials/test_en.ftl"): Not found
+2020-11-13 08:15:56,141 - freemarker.cache -DEBUG - TemplateLoader.findTemplateSource("spark/partials/test.ftl"): Found
+2020-11-13 08:15:56,141 - freemarker.cache -DEBUG - Loading template for "spark/partials/test.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/windows/system32/config/systemprofile/.m2/repository/com/aventstack/extentreports/4.1.4/extentreports-4.1.4.jar!/com/aventstack/extentreports/view/spark/partials/test.ftl"
+2020-11-13 08:15:56,158 - freemarker.cache -DEBUG - Couldn't find template in cache for "spark/partials/standard-content.ftl"("en_US", UTF-8, parsed); will try to load it.
+2020-11-13 08:15:56,158 - freemarker.cache -DEBUG - TemplateLoader.findTemplateSource("spark/partials/standard-content_en_US.ftl"): Not found
+2020-11-13 08:15:56,158 - freemarker.cache -DEBUG - TemplateLoader.findTemplateSource("spark/partials/standard-content_en.ftl"): Not found
+2020-11-13 08:15:56,158 - freemarker.cache -DEBUG - TemplateLoader.findTemplateSource("spark/partials/standard-content.ftl"): Found
+2020-11-13 08:15:56,159 - freemarker.cache -DEBUG - Loading template for "spark/partials/standard-content.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/windows/system32/config/systemprofile/.m2/repository/com/aventstack/extentreports/4.1.4/extentreports-4.1.4.jar!/com/aventstack/extentreports/view/spark/partials/standard-content.ftl"
+2020-11-13 08:15:56,164 - freemarker.cache -DEBUG - "spark/partials/standard-content.ftl"("en_US", UTF-8, parsed) cached copy not yet stale; using cached.
+2020-11-13 08:15:56,165 - freemarker.cache -DEBUG - "spark/partials/standard-content.ftl"("en_US", UTF-8, parsed) cached copy not yet stale; using cached.
+2020-11-13 08:15:56,167 - freemarker.cache -DEBUG - "spark/partials/standard-content.ftl"("en_US", UTF-8, parsed) cached copy not yet stale; using cached.
+2020-11-13 08:15:56,168 - freemarker.cache -DEBUG - "spark/partials/standard-content.ftl"("en_US", UTF-8, parsed) cached copy not yet stale; using cached.
+2020-11-13 08:15:56,170 - freemarker.cache -DEBUG - "spark/partials/standard-content.ftl"("en_US", UTF-8, parsed) cached copy not yet stale; using cached.
+2020-11-13 08:15:56,171 - freemarker.cache -DEBUG - "spark/partials/standard-content.ftl"("en_US", UTF-8, parsed) cached copy not yet stale; using cached.
+2020-11-13 08:15:56,174 - freemarker.cache -DEBUG - "spark/partials/standard-content.ftl"("en_US", UTF-8, parsed) cached copy not yet stale; using cached.
+2020-11-13 08:15:56,174 - freemarker.cache -DEBUG - Couldn't find template in cache for "spark/partials/exception.ftl"("en_US", UTF-8, parsed); will try to load it.
+2020-11-13 08:15:56,175 - freemarker.cache -DEBUG - TemplateLoader.findTemplateSource("spark/partials/exception_en_US.ftl"): Not found
+2020-11-13 08:15:56,175 - freemarker.cache -DEBUG - TemplateLoader.findTemplateSource("spark/partials/exception_en.ftl"): Not found
+2020-11-13 08:15:56,175 - freemarker.cache -DEBUG - TemplateLoader.findTemplateSource("spark/partials/exception.ftl"): Found
+2020-11-13 08:15:56,175 - freemarker.cache -DEBUG - Loading template for "spark/partials/exception.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/windows/system32/config/systemprofile/.m2/repository/com/aventstack/extentreports/4.1.4/extentreports-4.1.4.jar!/com/aventstack/extentreports/view/spark/partials/exception.ftl"
+2020-11-13 08:15:56,179 - freemarker.cache -DEBUG - Couldn't find template in cache for "spark/partials/dashboard.ftl"("en_US", UTF-8, parsed); will try to load it.
+2020-11-13 08:15:56,179 - freemarker.cache -DEBUG - TemplateLoader.findTemplateSource("spark/partials/dashboard_en_US.ftl"): Not found
+2020-11-13 08:15:56,179 - freemarker.cache -DEBUG - TemplateLoader.findTemplateSource("spark/partials/dashboard_en.ftl"): Not found
+2020-11-13 08:15:56,180 - freemarker.cache -DEBUG - TemplateLoader.findTemplateSource("spark/partials/dashboard.ftl"): Found
+2020-11-13 08:15:56,180 - freemarker.cache -DEBUG - Loading template for "spark/partials/dashboard.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/windows/system32/config/systemprofile/.m2/repository/com/aventstack/extentreports/4.1.4/extentreports-4.1.4.jar!/com/aventstack/extentreports/view/spark/partials/dashboard.ftl"
+2020-11-13 08:15:56,218 - freemarker.cache -DEBUG - Couldn't find template in cache for "spark/partials/scripts.ftl"("en_US", UTF-8, parsed); will try to load it.
+2020-11-13 08:15:56,219 - freemarker.cache -DEBUG - TemplateLoader.findTemplateSource("spark/partials/scripts_en_US.ftl"): Not found
+2020-11-13 08:15:56,221 - freemarker.cache -DEBUG - TemplateLoader.findTemplateSource("spark/partials/scripts_en.ftl"): Not found
+2020-11-13 08:15:56,222 - freemarker.cache -DEBUG - TemplateLoader.findTemplateSource("spark/partials/scripts.ftl"): Found
+2020-11-13 08:15:56,222 - freemarker.cache -DEBUG - Loading template for "spark/partials/scripts.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/windows/system32/config/systemprofile/.m2/repository/com/aventstack/extentreports/4.1.4/extentreports-4.1.4.jar!/com/aventstack/extentreports/view/spark/partials/scripts.ftl"
+2020-11-13 08:15:56,224 - freemarker.cache -DEBUG - Couldn't find template in cache for "commons/commons-inject-js.ftl"("en_US", UTF-8, parsed); will try to load it.
+2020-11-13 08:15:56,225 - freemarker.cache -DEBUG - TemplateLoader.findTemplateSource("commons/commons-inject-js_en_US.ftl"): Not found
+2020-11-13 08:15:56,227 - freemarker.cache -DEBUG - TemplateLoader.findTemplateSource("commons/commons-inject-js_en.ftl"): Not found
+2020-11-13 08:15:56,229 - freemarker.cache -DEBUG - TemplateLoader.findTemplateSource("commons/commons-inject-js.ftl"): Found
+2020-11-13 08:15:56,229 - freemarker.cache -DEBUG - Loading template for "commons/commons-inject-js.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/windows/system32/config/systemprofile/.m2/repository/com/aventstack/extentreports/4.1.4/extentreports-4.1.4.jar!/com/aventstack/extentreports/view/commons/commons-inject-js.ftl"
+2020-11-13 08:18:32,157 - freemarker.cache -DEBUG - Couldn't find template in cache for "spark/spark.spa.ftl"("en_US", UTF-8, parsed); will try to load it.
+2020-11-13 08:18:32,160 - freemarker.cache -DEBUG - TemplateLoader.findTemplateSource("spark/spark.spa_en_US.ftl"): Not found
+2020-11-13 08:18:32,162 - freemarker.cache -DEBUG - TemplateLoader.findTemplateSource("spark/spark.spa_en.ftl"): Not found
+2020-11-13 08:18:32,162 - freemarker.cache -DEBUG - TemplateLoader.findTemplateSource("spark/spark.spa.ftl"): Found
+2020-11-13 08:18:32,163 - freemarker.cache -DEBUG - Loading template for "spark/spark.spa.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/windows/system32/config/systemprofile/.m2/repository/com/aventstack/extentreports/4.1.4/extentreports-4.1.4.jar!/com/aventstack/extentreports/view/spark/spark.spa.ftl"
+2020-11-13 08:18:32,241 - freemarker.cache -DEBUG - Couldn't find template in cache for "commons/commons-variables.ftl"("en_US", UTF-8, parsed); will try to load it.
+2020-11-13 08:18:32,242 - freemarker.cache -DEBUG - TemplateLoader.findTemplateSource("commons/commons-variables_en_US.ftl"): Not found
+2020-11-13 08:18:32,243 - freemarker.cache -DEBUG - TemplateLoader.findTemplateSource("commons/commons-variables_en.ftl"): Not found
+2020-11-13 08:18:32,243 - freemarker.cache -DEBUG - TemplateLoader.findTemplateSource("commons/commons-variables.ftl"): Found
+2020-11-13 08:18:32,243 - freemarker.cache -DEBUG - Loading template for "commons/commons-variables.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/windows/system32/config/systemprofile/.m2/repository/com/aventstack/extentreports/4.1.4/extentreports-4.1.4.jar!/com/aventstack/extentreports/view/commons/commons-variables.ftl"
+2020-11-13 08:18:32,276 - freemarker.cache -DEBUG - Couldn't find template in cache for "commons/commons-macros.ftl"("en_US", UTF-8, parsed); will try to load it.
+2020-11-13 08:18:32,277 - freemarker.cache -DEBUG - TemplateLoader.findTemplateSource("commons/commons-macros_en_US.ftl"): Not found
+2020-11-13 08:18:32,277 - freemarker.cache -DEBUG - TemplateLoader.findTemplateSource("commons/commons-macros_en.ftl"): Not found
+2020-11-13 08:18:32,278 - freemarker.cache -DEBUG - TemplateLoader.findTemplateSource("commons/commons-macros.ftl"): Found
+2020-11-13 08:18:32,278 - freemarker.cache -DEBUG - Loading template for "commons/commons-macros.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/windows/system32/config/systemprofile/.m2/repository/com/aventstack/extentreports/4.1.4/extentreports-4.1.4.jar!/com/aventstack/extentreports/view/commons/commons-macros.ftl"
+2020-11-13 08:18:32,285 - freemarker.cache -DEBUG - Couldn't find template in cache for "spark/macros/attributes.ftl"("en_US", UTF-8, parsed); will try to load it.
+2020-11-13 08:18:32,286 - freemarker.cache -DEBUG - TemplateLoader.findTemplateSource("spark/macros/attributes_en_US.ftl"): Not found
+2020-11-13 08:18:32,286 - freemarker.cache -DEBUG - TemplateLoader.findTemplateSource("spark/macros/attributes_en.ftl"): Not found
+2020-11-13 08:18:32,287 - freemarker.cache -DEBUG - TemplateLoader.findTemplateSource("spark/macros/attributes.ftl"): Found
+2020-11-13 08:18:32,287 - freemarker.cache -DEBUG - Loading template for "spark/macros/attributes.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/windows/system32/config/systemprofile/.m2/repository/com/aventstack/extentreports/4.1.4/extentreports-4.1.4.jar!/com/aventstack/extentreports/view/spark/macros/attributes.ftl"
+2020-11-13 08:18:32,288 - freemarker.cache -DEBUG - Couldn't find template in cache for "spark/macros/log.ftl"("en_US", UTF-8, parsed); will try to load it.
+2020-11-13 08:18:32,288 - freemarker.cache -DEBUG - TemplateLoader.findTemplateSource("spark/macros/log_en_US.ftl"): Not found
+2020-11-13 08:18:32,289 - freemarker.cache -DEBUG - TemplateLoader.findTemplateSource("spark/macros/log_en.ftl"): Not found
+2020-11-13 08:18:32,289 - freemarker.cache -DEBUG - TemplateLoader.findTemplateSource("spark/macros/log.ftl"): Found
+2020-11-13 08:18:32,289 - freemarker.cache -DEBUG - Loading template for "spark/macros/log.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/windows/system32/config/systemprofile/.m2/repository/com/aventstack/extentreports/4.1.4/extentreports-4.1.4.jar!/com/aventstack/extentreports/view/spark/macros/log.ftl"
+2020-11-13 08:18:32,290 - freemarker.cache -DEBUG - Couldn't find template in cache for "spark/macros/recurse_nodes.ftl"("en_US", UTF-8, parsed); will try to load it.
+2020-11-13 08:18:32,291 - freemarker.cache -DEBUG - TemplateLoader.findTemplateSource("spark/macros/recurse_nodes_en_US.ftl"): Not found
+2020-11-13 08:18:32,291 - freemarker.cache -DEBUG - TemplateLoader.findTemplateSource("spark/macros/recurse_nodes_en.ftl"): Not found
+2020-11-13 08:18:32,291 - freemarker.cache -DEBUG - TemplateLoader.findTemplateSource("spark/macros/recurse_nodes.ftl"): Found
+2020-11-13 08:18:32,291 - freemarker.cache -DEBUG - Loading template for "spark/macros/recurse_nodes.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/windows/system32/config/systemprofile/.m2/repository/com/aventstack/extentreports/4.1.4/extentreports-4.1.4.jar!/com/aventstack/extentreports/view/spark/macros/recurse_nodes.ftl"
+2020-11-13 08:18:32,293 - freemarker.cache -DEBUG - "spark/macros/log.ftl"("en_US", UTF-8, parsed) cached copy not yet stale; using cached.
+2020-11-13 08:18:32,296 - freemarker.cache -DEBUG - Couldn't find template in cache for "spark/partials/head.ftl"("en_US", UTF-8, parsed); will try to load it.
+2020-11-13 08:18:32,296 - freemarker.cache -DEBUG - TemplateLoader.findTemplateSource("spark/partials/head_en_US.ftl"): Not found
+2020-11-13 08:18:32,297 - freemarker.cache -DEBUG - TemplateLoader.findTemplateSource("spark/partials/head_en.ftl"): Not found
+2020-11-13 08:18:32,297 - freemarker.cache -DEBUG - TemplateLoader.findTemplateSource("spark/partials/head.ftl"): Found
+2020-11-13 08:18:32,297 - freemarker.cache -DEBUG - Loading template for "spark/partials/head.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/windows/system32/config/systemprofile/.m2/repository/com/aventstack/extentreports/4.1.4/extentreports-4.1.4.jar!/com/aventstack/extentreports/view/spark/partials/head.ftl"
+2020-11-13 08:18:32,299 - freemarker.cache -DEBUG - Couldn't find template in cache for "commons/commons-inject-css.ftl"("en_US", UTF-8, parsed); will try to load it.
+2020-11-13 08:18:32,299 - freemarker.cache -DEBUG - TemplateLoader.findTemplateSource("commons/commons-inject-css_en_US.ftl"): Not found
+2020-11-13 08:18:32,300 - freemarker.cache -DEBUG - TemplateLoader.findTemplateSource("commons/commons-inject-css_en.ftl"): Not found
+2020-11-13 08:18:32,300 - freemarker.cache -DEBUG - TemplateLoader.findTemplateSource("commons/commons-inject-css.ftl"): Found
+2020-11-13 08:18:32,301 - freemarker.cache -DEBUG - Loading template for "commons/commons-inject-css.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/windows/system32/config/systemprofile/.m2/repository/com/aventstack/extentreports/4.1.4/extentreports-4.1.4.jar!/com/aventstack/extentreports/view/commons/commons-inject-css.ftl"
+2020-11-13 08:18:32,302 - freemarker.cache -DEBUG - Couldn't find template in cache for "spark/partials/navbar.ftl"("en_US", UTF-8, parsed); will try to load it.
+2020-11-13 08:18:32,303 - freemarker.cache -DEBUG - TemplateLoader.findTemplateSource("spark/partials/navbar_en_US.ftl"): Not found
+2020-11-13 08:18:32,303 - freemarker.cache -DEBUG - TemplateLoader.findTemplateSource("spark/partials/navbar_en.ftl"): Not found
+2020-11-13 08:18:32,303 - freemarker.cache -DEBUG - TemplateLoader.findTemplateSource("spark/partials/navbar.ftl"): Found
+2020-11-13 08:18:32,304 - freemarker.cache -DEBUG - Loading template for "spark/partials/navbar.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/windows/system32/config/systemprofile/.m2/repository/com/aventstack/extentreports/4.1.4/extentreports-4.1.4.jar!/com/aventstack/extentreports/view/spark/partials/navbar.ftl"
+2020-11-13 08:18:32,310 - freemarker.cache -DEBUG - Couldn't find template in cache for "spark/partials/sidenav.ftl"("en_US", UTF-8, parsed); will try to load it.
+2020-11-13 08:18:32,310 - freemarker.cache -DEBUG - TemplateLoader.findTemplateSource("spark/partials/sidenav_en_US.ftl"): Not found
+2020-11-13 08:18:32,311 - freemarker.cache -DEBUG - TemplateLoader.findTemplateSource("spark/partials/sidenav_en.ftl"): Not found
+2020-11-13 08:18:32,311 - freemarker.cache -DEBUG - TemplateLoader.findTemplateSource("spark/partials/sidenav.ftl"): Found
+2020-11-13 08:18:32,311 - freemarker.cache -DEBUG - Loading template for "spark/partials/sidenav.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/windows/system32/config/systemprofile/.m2/repository/com/aventstack/extentreports/4.1.4/extentreports-4.1.4.jar!/com/aventstack/extentreports/view/spark/partials/sidenav.ftl"
+2020-11-13 08:18:32,312 - freemarker.cache -DEBUG - Couldn't find template in cache for "spark/partials/test.ftl"("en_US", UTF-8, parsed); will try to load it.
+2020-11-13 08:18:32,313 - freemarker.cache -DEBUG - TemplateLoader.findTemplateSource("spark/partials/test_en_US.ftl"): Not found
+2020-11-13 08:18:32,313 - freemarker.cache -DEBUG - TemplateLoader.findTemplateSource("spark/partials/test_en.ftl"): Not found
+2020-11-13 08:18:32,313 - freemarker.cache -DEBUG - TemplateLoader.findTemplateSource("spark/partials/test.ftl"): Found
+2020-11-13 08:18:32,314 - freemarker.cache -DEBUG - Loading template for "spark/partials/test.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/windows/system32/config/systemprofile/.m2/repository/com/aventstack/extentreports/4.1.4/extentreports-4.1.4.jar!/com/aventstack/extentreports/view/spark/partials/test.ftl"
+2020-11-13 08:18:32,329 - freemarker.cache -DEBUG - Couldn't find template in cache for "spark/partials/standard-content.ftl"("en_US", UTF-8, parsed); will try to load it.
+2020-11-13 08:18:32,330 - freemarker.cache -DEBUG - TemplateLoader.findTemplateSource("spark/partials/standard-content_en_US.ftl"): Not found
+2020-11-13 08:18:32,331 - freemarker.cache -DEBUG - TemplateLoader.findTemplateSource("spark/partials/standard-content_en.ftl"): Not found
+2020-11-13 08:18:32,331 - freemarker.cache -DEBUG - TemplateLoader.findTemplateSource("spark/partials/standard-content.ftl"): Found
+2020-11-13 08:18:32,331 - freemarker.cache -DEBUG - Loading template for "spark/partials/standard-content.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/windows/system32/config/systemprofile/.m2/repository/com/aventstack/extentreports/4.1.4/extentreports-4.1.4.jar!/com/aventstack/extentreports/view/spark/partials/standard-content.ftl"
+2020-11-13 08:18:32,339 - freemarker.cache -DEBUG - "spark/partials/standard-content.ftl"("en_US", UTF-8, parsed) cached copy not yet stale; using cached.
+2020-11-13 08:18:32,340 - freemarker.cache -DEBUG - "spark/partials/standard-content.ftl"("en_US", UTF-8, parsed) cached copy not yet stale; using cached.
+2020-11-13 08:18:32,341 - freemarker.cache -DEBUG - "spark/partials/standard-content.ftl"("en_US", UTF-8, parsed) cached copy not yet stale; using cached.
+2020-11-13 08:18:32,342 - freemarker.cache -DEBUG - "spark/partials/standard-content.ftl"("en_US", UTF-8, parsed) cached copy not yet stale; using cached.
+2020-11-13 08:18:32,343 - freemarker.cache -DEBUG - "spark/partials/standard-content.ftl"("en_US", UTF-8, parsed) cached copy not yet stale; using cached.
+2020-11-13 08:18:32,344 - freemarker.cache -DEBUG - "spark/partials/standard-content.ftl"("en_US", UTF-8, parsed) cached copy not yet stale; using cached.
+2020-11-13 08:18:32,346 - freemarker.cache -DEBUG - "spark/partials/standard-content.ftl"("en_US", UTF-8, parsed) cached copy not yet stale; using cached.
+2020-11-13 08:18:32,347 - freemarker.cache -DEBUG - Couldn't find template in cache for "spark/partials/exception.ftl"("en_US", UTF-8, parsed); will try to load it.
+2020-11-13 08:18:32,347 - freemarker.cache -DEBUG - TemplateLoader.findTemplateSource("spark/partials/exception_en_US.ftl"): Not found
+2020-11-13 08:18:32,348 - freemarker.cache -DEBUG - TemplateLoader.findTemplateSource("spark/partials/exception_en.ftl"): Not found
+2020-11-13 08:18:32,348 - freemarker.cache -DEBUG - TemplateLoader.findTemplateSource("spark/partials/exception.ftl"): Found
+2020-11-13 08:18:32,349 - freemarker.cache -DEBUG - Loading template for "spark/partials/exception.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/windows/system32/config/systemprofile/.m2/repository/com/aventstack/extentreports/4.1.4/extentreports-4.1.4.jar!/com/aventstack/extentreports/view/spark/partials/exception.ftl"
+2020-11-13 08:18:32,353 - freemarker.cache -DEBUG - Couldn't find template in cache for "spark/partials/dashboard.ftl"("en_US", UTF-8, parsed); will try to load it.
+2020-11-13 08:18:32,353 - freemarker.cache -DEBUG - TemplateLoader.findTemplateSource("spark/partials/dashboard_en_US.ftl"): Not found
+2020-11-13 08:18:32,354 - freemarker.cache -DEBUG - TemplateLoader.findTemplateSource("spark/partials/dashboard_en.ftl"): Not found
+2020-11-13 08:18:32,354 - freemarker.cache -DEBUG - TemplateLoader.findTemplateSource("spark/partials/dashboard.ftl"): Found
+2020-11-13 08:18:32,354 - freemarker.cache -DEBUG - Loading template for "spark/partials/dashboard.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/windows/system32/config/systemprofile/.m2/repository/com/aventstack/extentreports/4.1.4/extentreports-4.1.4.jar!/com/aventstack/extentreports/view/spark/partials/dashboard.ftl"
+2020-11-13 08:18:32,391 - freemarker.cache -DEBUG - Couldn't find template in cache for "spark/partials/scripts.ftl"("en_US", UTF-8, parsed); will try to load it.
+2020-11-13 08:18:32,392 - freemarker.cache -DEBUG - TemplateLoader.findTemplateSource("spark/partials/scripts_en_US.ftl"): Not found
+2020-11-13 08:18:32,394 - freemarker.cache -DEBUG - TemplateLoader.findTemplateSource("spark/partials/scripts_en.ftl"): Not found
+2020-11-13 08:18:32,395 - freemarker.cache -DEBUG - TemplateLoader.findTemplateSource("spark/partials/scripts.ftl"): Found
+2020-11-13 08:18:32,395 - freemarker.cache -DEBUG - Loading template for "spark/partials/scripts.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/windows/system32/config/systemprofile/.m2/repository/com/aventstack/extentreports/4.1.4/extentreports-4.1.4.jar!/com/aventstack/extentreports/view/spark/partials/scripts.ftl"
+2020-11-13 08:18:32,396 - freemarker.cache -DEBUG - Couldn't find template in cache for "commons/commons-inject-js.ftl"("en_US", UTF-8, parsed); will try to load it.
+2020-11-13 08:18:32,397 - freemarker.cache -DEBUG - TemplateLoader.findTemplateSource("commons/commons-inject-js_en_US.ftl"): Not found
+2020-11-13 08:18:32,397 - freemarker.cache -DEBUG - TemplateLoader.findTemplateSource("commons/commons-inject-js_en.ftl"): Not found
+2020-11-13 08:18:32,397 - freemarker.cache -DEBUG - TemplateLoader.findTemplateSource("commons/commons-inject-js.ftl"): Found
+2020-11-13 08:18:32,397 - freemarker.cache -DEBUG - Loading template for "commons/commons-inject-js.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/windows/system32/config/systemprofile/.m2/repository/com/aventstack/extentreports/4.1.4/extentreports-4.1.4.jar!/com/aventstack/extentreports/view/commons/commons-inject-js.ftl"
+2020-11-14 07:34:20,031 - freemarker.cache -DEBUG - Couldn't find template in cache for "spark/spark.spa.ftl"("en_US", UTF-8, parsed); will try to load it.
+2020-11-14 07:34:20,034 - freemarker.cache -DEBUG - TemplateLoader.findTemplateSource("spark/spark.spa_en_US.ftl"): Not found
+2020-11-14 07:34:20,034 - freemarker.cache -DEBUG - TemplateLoader.findTemplateSource("spark/spark.spa_en.ftl"): Not found
+2020-11-14 07:34:20,035 - freemarker.cache -DEBUG - TemplateLoader.findTemplateSource("spark/spark.spa.ftl"): Found
+2020-11-14 07:34:20,035 - freemarker.cache -DEBUG - Loading template for "spark/spark.spa.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/rkamo/.m2/repository/com/aventstack/extentreports/4.1.4/extentreports-4.1.4.jar!/com/aventstack/extentreports/view/spark/spark.spa.ftl"
+2020-11-14 07:34:20,112 - freemarker.cache -DEBUG - Couldn't find template in cache for "commons/commons-variables.ftl"("en_US", UTF-8, parsed); will try to load it.
+2020-11-14 07:34:20,113 - freemarker.cache -DEBUG - TemplateLoader.findTemplateSource("commons/commons-variables_en_US.ftl"): Not found
+2020-11-14 07:34:20,113 - freemarker.cache -DEBUG - TemplateLoader.findTemplateSource("commons/commons-variables_en.ftl"): Not found
+2020-11-14 07:34:20,114 - freemarker.cache -DEBUG - TemplateLoader.findTemplateSource("commons/commons-variables.ftl"): Found
+2020-11-14 07:34:20,114 - freemarker.cache -DEBUG - Loading template for "commons/commons-variables.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/rkamo/.m2/repository/com/aventstack/extentreports/4.1.4/extentreports-4.1.4.jar!/com/aventstack/extentreports/view/commons/commons-variables.ftl"
+2020-11-14 07:34:20,145 - freemarker.cache -DEBUG - Couldn't find template in cache for "commons/commons-macros.ftl"("en_US", UTF-8, parsed); will try to load it.
+2020-11-14 07:34:20,146 - freemarker.cache -DEBUG - TemplateLoader.findTemplateSource("commons/commons-macros_en_US.ftl"): Not found
+2020-11-14 07:34:20,146 - freemarker.cache -DEBUG - TemplateLoader.findTemplateSource("commons/commons-macros_en.ftl"): Not found
+2020-11-14 07:34:20,147 - freemarker.cache -DEBUG - TemplateLoader.findTemplateSource("commons/commons-macros.ftl"): Found
+2020-11-14 07:34:20,147 - freemarker.cache -DEBUG - Loading template for "commons/commons-macros.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/rkamo/.m2/repository/com/aventstack/extentreports/4.1.4/extentreports-4.1.4.jar!/com/aventstack/extentreports/view/commons/commons-macros.ftl"
+2020-11-14 07:34:20,152 - freemarker.cache -DEBUG - Couldn't find template in cache for "spark/macros/attributes.ftl"("en_US", UTF-8, parsed); will try to load it.
+2020-11-14 07:34:20,153 - freemarker.cache -DEBUG - TemplateLoader.findTemplateSource("spark/macros/attributes_en_US.ftl"): Not found
+2020-11-14 07:34:20,154 - freemarker.cache -DEBUG - TemplateLoader.findTemplateSource("spark/macros/attributes_en.ftl"): Not found
+2020-11-14 07:34:20,154 - freemarker.cache -DEBUG - TemplateLoader.findTemplateSource("spark/macros/attributes.ftl"): Found
+2020-11-14 07:34:20,154 - freemarker.cache -DEBUG - Loading template for "spark/macros/attributes.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/rkamo/.m2/repository/com/aventstack/extentreports/4.1.4/extentreports-4.1.4.jar!/com/aventstack/extentreports/view/spark/macros/attributes.ftl"
+2020-11-14 07:34:20,155 - freemarker.cache -DEBUG - Couldn't find template in cache for "spark/macros/log.ftl"("en_US", UTF-8, parsed); will try to load it.
+2020-11-14 07:34:20,156 - freemarker.cache -DEBUG - TemplateLoader.findTemplateSource("spark/macros/log_en_US.ftl"): Not found
+2020-11-14 07:34:20,156 - freemarker.cache -DEBUG - TemplateLoader.findTemplateSource("spark/macros/log_en.ftl"): Not found
+2020-11-14 07:34:20,156 - freemarker.cache -DEBUG - TemplateLoader.findTemplateSource("spark/macros/log.ftl"): Found
+2020-11-14 07:34:20,156 - freemarker.cache -DEBUG - Loading template for "spark/macros/log.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/rkamo/.m2/repository/com/aventstack/extentreports/4.1.4/extentreports-4.1.4.jar!/com/aventstack/extentreports/view/spark/macros/log.ftl"
+2020-11-14 07:34:20,158 - freemarker.cache -DEBUG - Couldn't find template in cache for "spark/macros/recurse_nodes.ftl"("en_US", UTF-8, parsed); will try to load it.
+2020-11-14 07:34:20,158 - freemarker.cache -DEBUG - TemplateLoader.findTemplateSource("spark/macros/recurse_nodes_en_US.ftl"): Not found
+2020-11-14 07:34:20,158 - freemarker.cache -DEBUG - TemplateLoader.findTemplateSource("spark/macros/recurse_nodes_en.ftl"): Not found
+2020-11-14 07:34:20,159 - freemarker.cache -DEBUG - TemplateLoader.findTemplateSource("spark/macros/recurse_nodes.ftl"): Found
+2020-11-14 07:34:20,159 - freemarker.cache -DEBUG - Loading template for "spark/macros/recurse_nodes.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/rkamo/.m2/repository/com/aventstack/extentreports/4.1.4/extentreports-4.1.4.jar!/com/aventstack/extentreports/view/spark/macros/recurse_nodes.ftl"
+2020-11-14 07:34:20,160 - freemarker.cache -DEBUG - "spark/macros/log.ftl"("en_US", UTF-8, parsed) cached copy not yet stale; using cached.
+2020-11-14 07:34:20,163 - freemarker.cache -DEBUG - Couldn't find template in cache for "spark/partials/head.ftl"("en_US", UTF-8, parsed); will try to load it.
+2020-11-14 07:34:20,164 - freemarker.cache -DEBUG - TemplateLoader.findTemplateSource("spark/partials/head_en_US.ftl"): Not found
+2020-11-14 07:34:20,164 - freemarker.cache -DEBUG - TemplateLoader.findTemplateSource("spark/partials/head_en.ftl"): Not found
+2020-11-14 07:34:20,164 - freemarker.cache -DEBUG - TemplateLoader.findTemplateSource("spark/partials/head.ftl"): Found
+2020-11-14 07:34:20,165 - freemarker.cache -DEBUG - Loading template for "spark/partials/head.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/rkamo/.m2/repository/com/aventstack/extentreports/4.1.4/extentreports-4.1.4.jar!/com/aventstack/extentreports/view/spark/partials/head.ftl"
+2020-11-14 07:34:20,166 - freemarker.cache -DEBUG - Couldn't find template in cache for "commons/commons-inject-css.ftl"("en_US", UTF-8, parsed); will try to load it.
+2020-11-14 07:34:20,167 - freemarker.cache -DEBUG - TemplateLoader.findTemplateSource("commons/commons-inject-css_en_US.ftl"): Not found
+2020-11-14 07:34:20,167 - freemarker.cache -DEBUG - TemplateLoader.findTemplateSource("commons/commons-inject-css_en.ftl"): Not found
+2020-11-14 07:34:20,167 - freemarker.cache -DEBUG - TemplateLoader.findTemplateSource("commons/commons-inject-css.ftl"): Found
+2020-11-14 07:34:20,167 - freemarker.cache -DEBUG - Loading template for "commons/commons-inject-css.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/rkamo/.m2/repository/com/aventstack/extentreports/4.1.4/extentreports-4.1.4.jar!/com/aventstack/extentreports/view/commons/commons-inject-css.ftl"
+2020-11-14 07:34:20,168 - freemarker.cache -DEBUG - Couldn't find template in cache for "spark/partials/navbar.ftl"("en_US", UTF-8, parsed); will try to load it.
+2020-11-14 07:34:20,168 - freemarker.cache -DEBUG - TemplateLoader.findTemplateSource("spark/partials/navbar_en_US.ftl"): Not found
+2020-11-14 07:34:20,169 - freemarker.cache -DEBUG - TemplateLoader.findTemplateSource("spark/partials/navbar_en.ftl"): Not found
+2020-11-14 07:34:20,169 - freemarker.cache -DEBUG - TemplateLoader.findTemplateSource("spark/partials/navbar.ftl"): Found
+2020-11-14 07:34:20,169 - freemarker.cache -DEBUG - Loading template for "spark/partials/navbar.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/rkamo/.m2/repository/com/aventstack/extentreports/4.1.4/extentreports-4.1.4.jar!/com/aventstack/extentreports/view/spark/partials/navbar.ftl"
+2020-11-14 07:34:20,175 - freemarker.cache -DEBUG - Couldn't find template in cache for "spark/partials/sidenav.ftl"("en_US", UTF-8, parsed); will try to load it.
+2020-11-14 07:34:20,175 - freemarker.cache -DEBUG - TemplateLoader.findTemplateSource("spark/partials/sidenav_en_US.ftl"): Not found
+2020-11-14 07:34:20,176 - freemarker.cache -DEBUG - TemplateLoader.findTemplateSource("spark/partials/sidenav_en.ftl"): Not found
+2020-11-14 07:34:20,176 - freemarker.cache -DEBUG - TemplateLoader.findTemplateSource("spark/partials/sidenav.ftl"): Found
+2020-11-14 07:34:20,176 - freemarker.cache -DEBUG - Loading template for "spark/partials/sidenav.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/rkamo/.m2/repository/com/aventstack/extentreports/4.1.4/extentreports-4.1.4.jar!/com/aventstack/extentreports/view/spark/partials/sidenav.ftl"
+2020-11-14 07:34:20,177 - freemarker.cache -DEBUG - Couldn't find template in cache for "spark/partials/test.ftl"("en_US", UTF-8, parsed); will try to load it.
+2020-11-14 07:34:20,178 - freemarker.cache -DEBUG - TemplateLoader.findTemplateSource("spark/partials/test_en_US.ftl"): Not found
+2020-11-14 07:34:20,178 - freemarker.cache -DEBUG - TemplateLoader.findTemplateSource("spark/partials/test_en.ftl"): Not found
+2020-11-14 07:34:20,178 - freemarker.cache -DEBUG - TemplateLoader.findTemplateSource("spark/partials/test.ftl"): Found
+2020-11-14 07:34:20,178 - freemarker.cache -DEBUG - Loading template for "spark/partials/test.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/rkamo/.m2/repository/com/aventstack/extentreports/4.1.4/extentreports-4.1.4.jar!/com/aventstack/extentreports/view/spark/partials/test.ftl"
+2020-11-14 07:34:20,192 - freemarker.cache -DEBUG - Couldn't find template in cache for "spark/partials/standard-content.ftl"("en_US", UTF-8, parsed); will try to load it.
+2020-11-14 07:34:20,193 - freemarker.cache -DEBUG - TemplateLoader.findTemplateSource("spark/partials/standard-content_en_US.ftl"): Not found
+2020-11-14 07:34:20,193 - freemarker.cache -DEBUG - TemplateLoader.findTemplateSource("spark/partials/standard-content_en.ftl"): Not found
+2020-11-14 07:34:20,193 - freemarker.cache -DEBUG - TemplateLoader.findTemplateSource("spark/partials/standard-content.ftl"): Found
+2020-11-14 07:34:20,193 - freemarker.cache -DEBUG - Loading template for "spark/partials/standard-content.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/rkamo/.m2/repository/com/aventstack/extentreports/4.1.4/extentreports-4.1.4.jar!/com/aventstack/extentreports/view/spark/partials/standard-content.ftl"
+2020-11-14 07:34:20,201 - freemarker.cache -DEBUG - "spark/partials/standard-content.ftl"("en_US", UTF-8, parsed) cached copy not yet stale; using cached.
+2020-11-14 07:34:20,201 - freemarker.cache -DEBUG - "spark/partials/standard-content.ftl"("en_US", UTF-8, parsed) cached copy not yet stale; using cached.
+2020-11-14 07:34:20,202 - freemarker.cache -DEBUG - "spark/partials/standard-content.ftl"("en_US", UTF-8, parsed) cached copy not yet stale; using cached.
+2020-11-14 07:34:20,203 - freemarker.cache -DEBUG - "spark/partials/standard-content.ftl"("en_US", UTF-8, parsed) cached copy not yet stale; using cached.
+2020-11-14 07:34:20,203 - freemarker.cache -DEBUG - "spark/partials/standard-content.ftl"("en_US", UTF-8, parsed) cached copy not yet stale; using cached.
+2020-11-14 07:34:20,204 - freemarker.cache -DEBUG - "spark/partials/standard-content.ftl"("en_US", UTF-8, parsed) cached copy not yet stale; using cached.
+2020-11-14 07:34:20,205 - freemarker.cache -DEBUG - "spark/partials/standard-content.ftl"("en_US", UTF-8, parsed) cached copy not yet stale; using cached.
+2020-11-14 07:34:20,206 - freemarker.cache -DEBUG - Couldn't find template in cache for "spark/partials/exception.ftl"("en_US", UTF-8, parsed); will try to load it.
+2020-11-14 07:34:20,206 - freemarker.cache -DEBUG - TemplateLoader.findTemplateSource("spark/partials/exception_en_US.ftl"): Not found
+2020-11-14 07:34:20,206 - freemarker.cache -DEBUG - TemplateLoader.findTemplateSource("spark/partials/exception_en.ftl"): Not found
+2020-11-14 07:34:20,207 - freemarker.cache -DEBUG - TemplateLoader.findTemplateSource("spark/partials/exception.ftl"): Found
+2020-11-14 07:34:20,207 - freemarker.cache -DEBUG - Loading template for "spark/partials/exception.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/rkamo/.m2/repository/com/aventstack/extentreports/4.1.4/extentreports-4.1.4.jar!/com/aventstack/extentreports/view/spark/partials/exception.ftl"
+2020-11-14 07:34:20,210 - freemarker.cache -DEBUG - Couldn't find template in cache for "spark/partials/dashboard.ftl"("en_US", UTF-8, parsed); will try to load it.
+2020-11-14 07:34:20,210 - freemarker.cache -DEBUG - TemplateLoader.findTemplateSource("spark/partials/dashboard_en_US.ftl"): Not found
+2020-11-14 07:34:20,211 - freemarker.cache -DEBUG - TemplateLoader.findTemplateSource("spark/partials/dashboard_en.ftl"): Not found
+2020-11-14 07:34:20,211 - freemarker.cache -DEBUG - TemplateLoader.findTemplateSource("spark/partials/dashboard.ftl"): Found
+2020-11-14 07:34:20,211 - freemarker.cache -DEBUG - Loading template for "spark/partials/dashboard.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/rkamo/.m2/repository/com/aventstack/extentreports/4.1.4/extentreports-4.1.4.jar!/com/aventstack/extentreports/view/spark/partials/dashboard.ftl"
+2020-11-14 07:34:20,244 - freemarker.cache -DEBUG - Couldn't find template in cache for "spark/partials/scripts.ftl"("en_US", UTF-8, parsed); will try to load it.
+2020-11-14 07:34:20,245 - freemarker.cache -DEBUG - TemplateLoader.findTemplateSource("spark/partials/scripts_en_US.ftl"): Not found
+2020-11-14 07:34:20,245 - freemarker.cache -DEBUG - TemplateLoader.findTemplateSource("spark/partials/scripts_en.ftl"): Not found
+2020-11-14 07:34:20,247 - freemarker.cache -DEBUG - TemplateLoader.findTemplateSource("spark/partials/scripts.ftl"): Found
+2020-11-14 07:34:20,247 - freemarker.cache -DEBUG - Loading template for "spark/partials/scripts.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/rkamo/.m2/repository/com/aventstack/extentreports/4.1.4/extentreports-4.1.4.jar!/com/aventstack/extentreports/view/spark/partials/scripts.ftl"
+2020-11-14 07:34:20,248 - freemarker.cache -DEBUG - Couldn't find template in cache for "commons/commons-inject-js.ftl"("en_US", UTF-8, parsed); will try to load it.
+2020-11-14 07:34:20,249 - freemarker.cache -DEBUG - TemplateLoader.findTemplateSource("commons/commons-inject-js_en_US.ftl"): Not found
+2020-11-14 07:34:20,249 - freemarker.cache -DEBUG - TemplateLoader.findTemplateSource("commons/commons-inject-js_en.ftl"): Not found
+2020-11-14 07:34:20,250 - freemarker.cache -DEBUG - TemplateLoader.findTemplateSource("commons/commons-inject-js.ftl"): Found
+2020-11-14 07:34:20,250 - freemarker.cache -DEBUG - Loading template for "commons/commons-inject-js.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/rkamo/.m2/repository/com/aventstack/extentreports/4.1.4/extentreports-4.1.4.jar!/com/aventstack/extentreports/view/commons/commons-inject-js.ftl"
+2020-11-14 07:37:10,703 - freemarker.cache -DEBUG - Couldn't find template in cache for "spark/spark.spa.ftl"("en_US", UTF-8, parsed); will try to load it.
+2020-11-14 07:37:10,706 - freemarker.cache -DEBUG - TemplateLoader.findTemplateSource("spark/spark.spa_en_US.ftl"): Not found
+2020-11-14 07:37:10,707 - freemarker.cache -DEBUG - TemplateLoader.findTemplateSource("spark/spark.spa_en.ftl"): Not found
+2020-11-14 07:37:10,708 - freemarker.cache -DEBUG - TemplateLoader.findTemplateSource("spark/spark.spa.ftl"): Found
+2020-11-14 07:37:10,708 - freemarker.cache -DEBUG - Loading template for "spark/spark.spa.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/rkamo/.m2/repository/com/aventstack/extentreports/4.1.4/extentreports-4.1.4.jar!/com/aventstack/extentreports/view/spark/spark.spa.ftl"
+2020-11-14 07:37:10,785 - freemarker.cache -DEBUG - Couldn't find template in cache for "commons/commons-variables.ftl"("en_US", UTF-8, parsed); will try to load it.
+2020-11-14 07:37:10,786 - freemarker.cache -DEBUG - TemplateLoader.findTemplateSource("commons/commons-variables_en_US.ftl"): Not found
+2020-11-14 07:37:10,786 - freemarker.cache -DEBUG - TemplateLoader.findTemplateSource("commons/commons-variables_en.ftl"): Not found
+2020-11-14 07:37:10,787 - freemarker.cache -DEBUG - TemplateLoader.findTemplateSource("commons/commons-variables.ftl"): Found
+2020-11-14 07:37:10,787 - freemarker.cache -DEBUG - Loading template for "commons/commons-variables.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/rkamo/.m2/repository/com/aventstack/extentreports/4.1.4/extentreports-4.1.4.jar!/com/aventstack/extentreports/view/commons/commons-variables.ftl"
+2020-11-14 07:37:10,817 - freemarker.cache -DEBUG - Couldn't find template in cache for "commons/commons-macros.ftl"("en_US", UTF-8, parsed); will try to load it.
+2020-11-14 07:37:10,818 - freemarker.cache -DEBUG - TemplateLoader.findTemplateSource("commons/commons-macros_en_US.ftl"): Not found
+2020-11-14 07:37:10,818 - freemarker.cache -DEBUG - TemplateLoader.findTemplateSource("commons/commons-macros_en.ftl"): Not found
+2020-11-14 07:37:10,819 - freemarker.cache -DEBUG - TemplateLoader.findTemplateSource("commons/commons-macros.ftl"): Found
+2020-11-14 07:37:10,819 - freemarker.cache -DEBUG - Loading template for "commons/commons-macros.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/rkamo/.m2/repository/com/aventstack/extentreports/4.1.4/extentreports-4.1.4.jar!/com/aventstack/extentreports/view/commons/commons-macros.ftl"
+2020-11-14 07:37:10,824 - freemarker.cache -DEBUG - Couldn't find template in cache for "spark/macros/attributes.ftl"("en_US", UTF-8, parsed); will try to load it.
+2020-11-14 07:37:10,825 - freemarker.cache -DEBUG - TemplateLoader.findTemplateSource("spark/macros/attributes_en_US.ftl"): Not found
+2020-11-14 07:37:10,826 - freemarker.cache -DEBUG - TemplateLoader.findTemplateSource("spark/macros/attributes_en.ftl"): Not found
+2020-11-14 07:37:10,826 - freemarker.cache -DEBUG - TemplateLoader.findTemplateSource("spark/macros/attributes.ftl"): Found
+2020-11-14 07:37:10,826 - freemarker.cache -DEBUG - Loading template for "spark/macros/attributes.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/rkamo/.m2/repository/com/aventstack/extentreports/4.1.4/extentreports-4.1.4.jar!/com/aventstack/extentreports/view/spark/macros/attributes.ftl"
+2020-11-14 07:37:10,828 - freemarker.cache -DEBUG - Couldn't find template in cache for "spark/macros/log.ftl"("en_US", UTF-8, parsed); will try to load it.
+2020-11-14 07:37:10,828 - freemarker.cache -DEBUG - TemplateLoader.findTemplateSource("spark/macros/log_en_US.ftl"): Not found
+2020-11-14 07:37:10,828 - freemarker.cache -DEBUG - TemplateLoader.findTemplateSource("spark/macros/log_en.ftl"): Not found
+2020-11-14 07:37:10,828 - freemarker.cache -DEBUG - TemplateLoader.findTemplateSource("spark/macros/log.ftl"): Found
+2020-11-14 07:37:10,829 - freemarker.cache -DEBUG - Loading template for "spark/macros/log.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/rkamo/.m2/repository/com/aventstack/extentreports/4.1.4/extentreports-4.1.4.jar!/com/aventstack/extentreports/view/spark/macros/log.ftl"
+2020-11-14 07:37:10,830 - freemarker.cache -DEBUG - Couldn't find template in cache for "spark/macros/recurse_nodes.ftl"("en_US", UTF-8, parsed); will try to load it.
+2020-11-14 07:37:10,830 - freemarker.cache -DEBUG - TemplateLoader.findTemplateSource("spark/macros/recurse_nodes_en_US.ftl"): Not found
+2020-11-14 07:37:10,830 - freemarker.cache -DEBUG - TemplateLoader.findTemplateSource("spark/macros/recurse_nodes_en.ftl"): Not found
+2020-11-14 07:37:10,831 - freemarker.cache -DEBUG - TemplateLoader.findTemplateSource("spark/macros/recurse_nodes.ftl"): Found
+2020-11-14 07:37:10,831 - freemarker.cache -DEBUG - Loading template for "spark/macros/recurse_nodes.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/rkamo/.m2/repository/com/aventstack/extentreports/4.1.4/extentreports-4.1.4.jar!/com/aventstack/extentreports/view/spark/macros/recurse_nodes.ftl"
+2020-11-14 07:37:10,832 - freemarker.cache -DEBUG - "spark/macros/log.ftl"("en_US", UTF-8, parsed) cached copy not yet stale; using cached.
+2020-11-14 07:37:10,834 - freemarker.cache -DEBUG - Couldn't find template in cache for "spark/partials/head.ftl"("en_US", UTF-8, parsed); will try to load it.
+2020-11-14 07:37:10,835 - freemarker.cache -DEBUG - TemplateLoader.findTemplateSource("spark/partials/head_en_US.ftl"): Not found
+2020-11-14 07:37:10,835 - freemarker.cache -DEBUG - TemplateLoader.findTemplateSource("spark/partials/head_en.ftl"): Not found
+2020-11-14 07:37:10,836 - freemarker.cache -DEBUG - TemplateLoader.findTemplateSource("spark/partials/head.ftl"): Found
+2020-11-14 07:37:10,836 - freemarker.cache -DEBUG - Loading template for "spark/partials/head.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/rkamo/.m2/repository/com/aventstack/extentreports/4.1.4/extentreports-4.1.4.jar!/com/aventstack/extentreports/view/spark/partials/head.ftl"
+2020-11-14 07:37:10,837 - freemarker.cache -DEBUG - Couldn't find template in cache for "commons/commons-inject-css.ftl"("en_US", UTF-8, parsed); will try to load it.
+2020-11-14 07:37:10,838 - freemarker.cache -DEBUG - TemplateLoader.findTemplateSource("commons/commons-inject-css_en_US.ftl"): Not found
+2020-11-14 07:37:10,838 - freemarker.cache -DEBUG - TemplateLoader.findTemplateSource("commons/commons-inject-css_en.ftl"): Not found
+2020-11-14 07:37:10,838 - freemarker.cache -DEBUG - TemplateLoader.findTemplateSource("commons/commons-inject-css.ftl"): Found
+2020-11-14 07:37:10,838 - freemarker.cache -DEBUG - Loading template for "commons/commons-inject-css.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/rkamo/.m2/repository/com/aventstack/extentreports/4.1.4/extentreports-4.1.4.jar!/com/aventstack/extentreports/view/commons/commons-inject-css.ftl"
+2020-11-14 07:37:10,839 - freemarker.cache -DEBUG - Couldn't find template in cache for "spark/partials/navbar.ftl"("en_US", UTF-8, parsed); will try to load it.
+2020-11-14 07:37:10,839 - freemarker.cache -DEBUG - TemplateLoader.findTemplateSource("spark/partials/navbar_en_US.ftl"): Not found
+2020-11-14 07:37:10,840 - freemarker.cache -DEBUG - TemplateLoader.findTemplateSource("spark/partials/navbar_en.ftl"): Not found
+2020-11-14 07:37:10,840 - freemarker.cache -DEBUG - TemplateLoader.findTemplateSource("spark/partials/navbar.ftl"): Found
+2020-11-14 07:37:10,840 - freemarker.cache -DEBUG - Loading template for "spark/partials/navbar.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/rkamo/.m2/repository/com/aventstack/extentreports/4.1.4/extentreports-4.1.4.jar!/com/aventstack/extentreports/view/spark/partials/navbar.ftl"
+2020-11-14 07:37:10,846 - freemarker.cache -DEBUG - Couldn't find template in cache for "spark/partials/sidenav.ftl"("en_US", UTF-8, parsed); will try to load it.
+2020-11-14 07:37:10,846 - freemarker.cache -DEBUG - TemplateLoader.findTemplateSource("spark/partials/sidenav_en_US.ftl"): Not found
+2020-11-14 07:37:10,846 - freemarker.cache -DEBUG - TemplateLoader.findTemplateSource("spark/partials/sidenav_en.ftl"): Not found
+2020-11-14 07:37:10,847 - freemarker.cache -DEBUG - TemplateLoader.findTemplateSource("spark/partials/sidenav.ftl"): Found
+2020-11-14 07:37:10,847 - freemarker.cache -DEBUG - Loading template for "spark/partials/sidenav.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/rkamo/.m2/repository/com/aventstack/extentreports/4.1.4/extentreports-4.1.4.jar!/com/aventstack/extentreports/view/spark/partials/sidenav.ftl"
+2020-11-14 07:37:10,848 - freemarker.cache -DEBUG - Couldn't find template in cache for "spark/partials/test.ftl"("en_US", UTF-8, parsed); will try to load it.
+2020-11-14 07:37:10,849 - freemarker.cache -DEBUG - TemplateLoader.findTemplateSource("spark/partials/test_en_US.ftl"): Not found
+2020-11-14 07:37:10,849 - freemarker.cache -DEBUG - TemplateLoader.findTemplateSource("spark/partials/test_en.ftl"): Not found
+2020-11-14 07:37:10,849 - freemarker.cache -DEBUG - TemplateLoader.findTemplateSource("spark/partials/test.ftl"): Found
+2020-11-14 07:37:10,849 - freemarker.cache -DEBUG - Loading template for "spark/partials/test.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/rkamo/.m2/repository/com/aventstack/extentreports/4.1.4/extentreports-4.1.4.jar!/com/aventstack/extentreports/view/spark/partials/test.ftl"
+2020-11-14 07:37:10,863 - freemarker.cache -DEBUG - Couldn't find template in cache for "spark/partials/standard-content.ftl"("en_US", UTF-8, parsed); will try to load it.
+2020-11-14 07:37:10,863 - freemarker.cache -DEBUG - TemplateLoader.findTemplateSource("spark/partials/standard-content_en_US.ftl"): Not found
+2020-11-14 07:37:10,864 - freemarker.cache -DEBUG - TemplateLoader.findTemplateSource("spark/partials/standard-content_en.ftl"): Not found
+2020-11-14 07:37:10,864 - freemarker.cache -DEBUG - TemplateLoader.findTemplateSource("spark/partials/standard-content.ftl"): Found
+2020-11-14 07:37:10,864 - freemarker.cache -DEBUG - Loading template for "spark/partials/standard-content.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/rkamo/.m2/repository/com/aventstack/extentreports/4.1.4/extentreports-4.1.4.jar!/com/aventstack/extentreports/view/spark/partials/standard-content.ftl"
+2020-11-14 07:37:10,872 - freemarker.cache -DEBUG - "spark/partials/standard-content.ftl"("en_US", UTF-8, parsed) cached copy not yet stale; using cached.
+2020-11-14 07:37:10,872 - freemarker.cache -DEBUG - "spark/partials/standard-content.ftl"("en_US", UTF-8, parsed) cached copy not yet stale; using cached.
+2020-11-14 07:37:10,873 - freemarker.cache -DEBUG - "spark/partials/standard-content.ftl"("en_US", UTF-8, parsed) cached copy not yet stale; using cached.
+2020-11-14 07:37:10,874 - freemarker.cache -DEBUG - "spark/partials/standard-content.ftl"("en_US", UTF-8, parsed) cached copy not yet stale; using cached.
+2020-11-14 07:37:10,875 - freemarker.cache -DEBUG - "spark/partials/standard-content.ftl"("en_US", UTF-8, parsed) cached copy not yet stale; using cached.
+2020-11-14 07:37:10,875 - freemarker.cache -DEBUG - "spark/partials/standard-content.ftl"("en_US", UTF-8, parsed) cached copy not yet stale; using cached.
+2020-11-14 07:37:10,877 - freemarker.cache -DEBUG - "spark/partials/standard-content.ftl"("en_US", UTF-8, parsed) cached copy not yet stale; using cached.
+2020-11-14 07:37:10,877 - freemarker.cache -DEBUG - Couldn't find template in cache for "spark/partials/exception.ftl"("en_US", UTF-8, parsed); will try to load it.
+2020-11-14 07:37:10,877 - freemarker.cache -DEBUG - TemplateLoader.findTemplateSource("spark/partials/exception_en_US.ftl"): Not found
+2020-11-14 07:37:10,878 - freemarker.cache -DEBUG - TemplateLoader.findTemplateSource("spark/partials/exception_en.ftl"): Not found
+2020-11-14 07:37:10,878 - freemarker.cache -DEBUG - TemplateLoader.findTemplateSource("spark/partials/exception.ftl"): Found
+2020-11-14 07:37:10,878 - freemarker.cache -DEBUG - Loading template for "spark/partials/exception.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/rkamo/.m2/repository/com/aventstack/extentreports/4.1.4/extentreports-4.1.4.jar!/com/aventstack/extentreports/view/spark/partials/exception.ftl"
+2020-11-14 07:37:10,881 - freemarker.cache -DEBUG - Couldn't find template in cache for "spark/partials/dashboard.ftl"("en_US", UTF-8, parsed); will try to load it.
+2020-11-14 07:37:10,881 - freemarker.cache -DEBUG - TemplateLoader.findTemplateSource("spark/partials/dashboard_en_US.ftl"): Not found
+2020-11-14 07:37:10,882 - freemarker.cache -DEBUG - TemplateLoader.findTemplateSource("spark/partials/dashboard_en.ftl"): Not found
+2020-11-14 07:37:10,882 - freemarker.cache -DEBUG - TemplateLoader.findTemplateSource("spark/partials/dashboard.ftl"): Found
+2020-11-14 07:37:10,882 - freemarker.cache -DEBUG - Loading template for "spark/partials/dashboard.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/rkamo/.m2/repository/com/aventstack/extentreports/4.1.4/extentreports-4.1.4.jar!/com/aventstack/extentreports/view/spark/partials/dashboard.ftl"
+2020-11-14 07:37:10,914 - freemarker.cache -DEBUG - Couldn't find template in cache for "spark/partials/scripts.ftl"("en_US", UTF-8, parsed); will try to load it.
+2020-11-14 07:37:10,915 - freemarker.cache -DEBUG - TemplateLoader.findTemplateSource("spark/partials/scripts_en_US.ftl"): Not found
+2020-11-14 07:37:10,916 - freemarker.cache -DEBUG - TemplateLoader.findTemplateSource("spark/partials/scripts_en.ftl"): Not found
+2020-11-14 07:37:10,916 - freemarker.cache -DEBUG - TemplateLoader.findTemplateSource("spark/partials/scripts.ftl"): Found
+2020-11-14 07:37:10,916 - freemarker.cache -DEBUG - Loading template for "spark/partials/scripts.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/rkamo/.m2/repository/com/aventstack/extentreports/4.1.4/extentreports-4.1.4.jar!/com/aventstack/extentreports/view/spark/partials/scripts.ftl"
+2020-11-14 07:37:10,918 - freemarker.cache -DEBUG - Couldn't find template in cache for "commons/commons-inject-js.ftl"("en_US", UTF-8, parsed); will try to load it.
+2020-11-14 07:37:10,918 - freemarker.cache -DEBUG - TemplateLoader.findTemplateSource("commons/commons-inject-js_en_US.ftl"): Not found
+2020-11-14 07:37:10,919 - freemarker.cache -DEBUG - TemplateLoader.findTemplateSource("commons/commons-inject-js_en.ftl"): Not found
+2020-11-14 07:37:10,919 - freemarker.cache -DEBUG - TemplateLoader.findTemplateSource("commons/commons-inject-js.ftl"): Found
+2020-11-14 07:37:10,919 - freemarker.cache -DEBUG - Loading template for "commons/commons-inject-js.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/rkamo/.m2/repository/com/aventstack/extentreports/4.1.4/extentreports-4.1.4.jar!/com/aventstack/extentreports/view/commons/commons-inject-js.ftl"

@@ -2,12 +2,12 @@
 <testng-results ignored="0" total="8" passed="7" failed="1" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2020-11-13T01:37:51 EST" name="eCommerce" finished-at="2020-11-13T01:39:43 EST" duration-ms="112003">
+  <suite started-at="2020-11-14T07:35:16 EST" name="eCommerce" finished-at="2020-11-14T07:37:10 EST" duration-ms="113714">
     <groups>
     </groups>
-    <test started-at="2020-11-13T01:37:51 EST" name="eCommerceApp Test" finished-at="2020-11-13T01:39:43 EST" duration-ms="112003">
+    <test started-at="2020-11-14T07:35:16 EST" name="eCommerceApp Test" finished-at="2020-11-14T07:37:10 EST" duration-ms="113714">
       <class name="com.DemoProjecteCommerce2TestCases.TC02_TsShirtLinkHomePageTestCase_001">
-        <test-method is-config="true" signature="setup(java.lang.String)[pri:0, instance:com.DemoProjecteCommerce2TestCases.TC02_TsShirtLinkHomePageTestCase_001@45c7e403]" started-at="2020-11-13T01:38:08 EST" name="setup" finished-at="2020-11-13T01:38:15 EST" duration-ms="6403" status="PASS">
+        <test-method is-config="true" signature="setup(java.lang.String)[pri:0, instance:com.DemoProjecteCommerce2TestCases.TC02_TsShirtLinkHomePageTestCase_001@45c7e403]" started-at="2020-11-14T07:35:35 EST" name="setup" finished-at="2020-11-14T07:35:41 EST" duration-ms="6876" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -18,17 +18,17 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setup -->
-        <test-method signature="tsShirtLinkHomePageTest()[pri:0, instance:com.DemoProjecteCommerce2TestCases.TC02_TsShirtLinkHomePageTestCase_001@45c7e403]" started-at="2020-11-13T01:38:15 EST" name="tsShirtLinkHomePageTest" finished-at="2020-11-13T01:38:16 EST" duration-ms="720" status="PASS">
+        <test-method signature="tsShirtLinkHomePageTest()[pri:0, instance:com.DemoProjecteCommerce2TestCases.TC02_TsShirtLinkHomePageTestCase_001@45c7e403]" started-at="2020-11-14T07:35:41 EST" name="tsShirtLinkHomePageTest" finished-at="2020-11-14T07:35:42 EST" duration-ms="909" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tsShirtLinkHomePageTest -->
-        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.DemoProjecteCommerce2TestCases.TC02_TsShirtLinkHomePageTestCase_001@45c7e403]" started-at="2020-11-13T01:38:16 EST" name="tearDown" finished-at="2020-11-13T01:38:16 EST" duration-ms="637" status="PASS">
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.DemoProjecteCommerce2TestCases.TC02_TsShirtLinkHomePageTestCase_001@45c7e403]" started-at="2020-11-14T07:35:42 EST" name="tearDown" finished-at="2020-11-14T07:35:43 EST" duration-ms="609" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
       </class> <!-- com.DemoProjecteCommerce2TestCases.TC02_TsShirtLinkHomePageTestCase_001 -->
       <class name="com.DemoProjecteCommerce2TestCases.TC03_WebLogoHomePageTestCase_001">
-        <test-method is-config="true" signature="setup(java.lang.String)[pri:0, instance:com.DemoProjecteCommerce2TestCases.TC03_WebLogoHomePageTestCase_001@2925bf5b]" started-at="2020-11-13T01:38:16 EST" name="setup" finished-at="2020-11-13T01:38:23 EST" duration-ms="6822" status="PASS">
+        <test-method is-config="true" signature="setup(java.lang.String)[pri:0, instance:com.DemoProjecteCommerce2TestCases.TC03_WebLogoHomePageTestCase_001@2925bf5b]" started-at="2020-11-14T07:35:43 EST" name="setup" finished-at="2020-11-14T07:35:49 EST" duration-ms="6407" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -39,17 +39,17 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setup -->
-        <test-method signature="logoWebHomePageTest()[pri:0, instance:com.DemoProjecteCommerce2TestCases.TC03_WebLogoHomePageTestCase_001@2925bf5b]" started-at="2020-11-13T01:38:23 EST" name="logoWebHomePageTest" finished-at="2020-11-13T01:38:23 EST" duration-ms="63" status="PASS">
+        <test-method signature="logoWebHomePageTest()[pri:0, instance:com.DemoProjecteCommerce2TestCases.TC03_WebLogoHomePageTestCase_001@2925bf5b]" started-at="2020-11-14T07:35:49 EST" name="logoWebHomePageTest" finished-at="2020-11-14T07:35:49 EST" duration-ms="59" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- logoWebHomePageTest -->
-        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.DemoProjecteCommerce2TestCases.TC03_WebLogoHomePageTestCase_001@2925bf5b]" started-at="2020-11-13T01:38:23 EST" name="tearDown" finished-at="2020-11-13T01:38:24 EST" duration-ms="626" status="PASS">
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.DemoProjecteCommerce2TestCases.TC03_WebLogoHomePageTestCase_001@2925bf5b]" started-at="2020-11-14T07:35:49 EST" name="tearDown" finished-at="2020-11-14T07:35:50 EST" duration-ms="626" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
       </class> <!-- com.DemoProjecteCommerce2TestCases.TC03_WebLogoHomePageTestCase_001 -->
       <class name="com.DemoProjecteCommerce2TestCases.TC0_WomenLinkTestCase_001">
-        <test-method is-config="true" signature="setup(java.lang.String)[pri:0, instance:com.DemoProjecteCommerce2TestCases.TC0_WomenLinkTestCase_001@279fedbd]" started-at="2020-11-13T01:37:51 EST" name="setup" finished-at="2020-11-13T01:37:58 EST" duration-ms="6776" status="PASS">
+        <test-method is-config="true" signature="setup(java.lang.String)[pri:0, instance:com.DemoProjecteCommerce2TestCases.TC0_WomenLinkTestCase_001@279fedbd]" started-at="2020-11-14T07:35:16 EST" name="setup" finished-at="2020-11-14T07:35:24 EST" duration-ms="7287" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -60,7 +60,7 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setup -->
-        <test-method signature="womenLinkHomePageTest()[pri:0, instance:com.DemoProjecteCommerce2TestCases.TC0_WomenLinkTestCase_001@279fedbd]" started-at="2020-11-13T01:37:58 EST" name="womenLinkHomePageTest" finished-at="2020-11-13T01:37:59 EST" duration-ms="1539" status="FAIL">
+        <test-method signature="womenLinkHomePageTest()[pri:0, instance:com.DemoProjecteCommerce2TestCases.TC0_WomenLinkTestCase_001@279fedbd]" started-at="2020-11-14T07:35:24 EST" name="womenLinkHomePageTest" finished-at="2020-11-14T07:35:25 EST" duration-ms="993" status="FAIL">
           <exception class="junit.framework.ComparisonFailure">
             <message>
               <![CDATA[expected:<... fashion collections[]> but was:<... fashion collections[.]>]]>
@@ -108,13 +108,13 @@ at org.apache.maven.surefire.booter.ForkedBooter.main(ForkedBooter.java:418)
           <reporter-output>
           </reporter-output>
         </test-method> <!-- womenLinkHomePageTest -->
-        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.DemoProjecteCommerce2TestCases.TC0_WomenLinkTestCase_001@279fedbd]" started-at="2020-11-13T01:38:00 EST" name="tearDown" finished-at="2020-11-13T01:38:01 EST" duration-ms="602" status="PASS">
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.DemoProjecteCommerce2TestCases.TC0_WomenLinkTestCase_001@279fedbd]" started-at="2020-11-14T07:35:25 EST" name="tearDown" finished-at="2020-11-14T07:35:26 EST" duration-ms="619" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
       </class> <!-- com.DemoProjecteCommerce2TestCases.TC0_WomenLinkTestCase_001 -->
       <class name="com.DemoProjecteCommerce2TestCases.TC04_CartImageHomePageTestCase_001">
-        <test-method is-config="true" signature="setup(java.lang.String)[pri:0, instance:com.DemoProjecteCommerce2TestCases.TC04_CartImageHomePageTestCase_001@710f4dc7]" started-at="2020-11-13T01:38:24 EST" name="setup" finished-at="2020-11-13T01:38:30 EST" duration-ms="6415" status="PASS">
+        <test-method is-config="true" signature="setup(java.lang.String)[pri:0, instance:com.DemoProjecteCommerce2TestCases.TC04_CartImageHomePageTestCase_001@710f4dc7]" started-at="2020-11-14T07:35:50 EST" name="setup" finished-at="2020-11-14T07:35:56 EST" duration-ms="6452" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -125,17 +125,17 @@ at org.apache.maven.surefire.booter.ForkedBooter.main(ForkedBooter.java:418)
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setup -->
-        <test-method signature="cartImageTestValidation()[pri:0, instance:com.DemoProjecteCommerce2TestCases.TC04_CartImageHomePageTestCase_001@710f4dc7]" started-at="2020-11-13T01:38:30 EST" name="cartImageTestValidation" finished-at="2020-11-13T01:38:31 EST" duration-ms="555" status="PASS">
+        <test-method signature="cartImageTestValidation()[pri:0, instance:com.DemoProjecteCommerce2TestCases.TC04_CartImageHomePageTestCase_001@710f4dc7]" started-at="2020-11-14T07:35:56 EST" name="cartImageTestValidation" finished-at="2020-11-14T07:35:57 EST" duration-ms="569" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- cartImageTestValidation -->
-        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.DemoProjecteCommerce2TestCases.TC04_CartImageHomePageTestCase_001@710f4dc7]" started-at="2020-11-13T01:38:31 EST" name="tearDown" finished-at="2020-11-13T01:38:31 EST" duration-ms="610" status="PASS">
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.DemoProjecteCommerce2TestCases.TC04_CartImageHomePageTestCase_001@710f4dc7]" started-at="2020-11-14T07:35:57 EST" name="tearDown" finished-at="2020-11-14T07:35:58 EST" duration-ms="600" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
       </class> <!-- com.DemoProjecteCommerce2TestCases.TC04_CartImageHomePageTestCase_001 -->
       <class name="com.DemoProjecteCommerce2TestCases.TC3_AddToCartItemTestCase_003">
-        <test-method is-config="true" signature="setup(java.lang.String)[pri:0, instance:com.DemoProjecteCommerce2TestCases.TC3_AddToCartItemTestCase_003@65e98b1c]" started-at="2020-11-13T01:39:12 EST" name="setup" finished-at="2020-11-13T01:39:18 EST" duration-ms="6409" status="PASS">
+        <test-method is-config="true" signature="setup(java.lang.String)[pri:0, instance:com.DemoProjecteCommerce2TestCases.TC3_AddToCartItemTestCase_003@65e98b1c]" started-at="2020-11-14T07:36:39 EST" name="setup" finished-at="2020-11-14T07:36:45 EST" duration-ms="6830" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -146,17 +146,17 @@ at org.apache.maven.surefire.booter.ForkedBooter.main(ForkedBooter.java:418)
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setup -->
-        <test-method signature="addToCartTest()[pri:0, instance:com.DemoProjecteCommerce2TestCases.TC3_AddToCartItemTestCase_003@65e98b1c]" started-at="2020-11-13T01:39:18 EST" name="addToCartTest" finished-at="2020-11-13T01:39:42 EST" duration-ms="23980" status="PASS">
+        <test-method signature="addToCartTest()[pri:0, instance:com.DemoProjecteCommerce2TestCases.TC3_AddToCartItemTestCase_003@65e98b1c]" started-at="2020-11-14T07:36:45 EST" name="addToCartTest" finished-at="2020-11-14T07:37:10 EST" duration-ms="24074" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- addToCartTest -->
-        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.DemoProjecteCommerce2TestCases.TC3_AddToCartItemTestCase_003@65e98b1c]" started-at="2020-11-13T01:39:42 EST" name="tearDown" finished-at="2020-11-13T01:39:43 EST" duration-ms="624" status="PASS">
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.DemoProjecteCommerce2TestCases.TC3_AddToCartItemTestCase_003@65e98b1c]" started-at="2020-11-14T07:37:10 EST" name="tearDown" finished-at="2020-11-14T07:37:10 EST" duration-ms="622" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
       </class> <!-- com.DemoProjecteCommerce2TestCases.TC3_AddToCartItemTestCase_003 -->
       <class name="com.DemoProjecteCommerce2TestCases.TC1_eCommerceLoginTestCase_001">
-        <test-method is-config="true" signature="setup(java.lang.String)[pri:0, instance:com.DemoProjecteCommerce2TestCases.TC1_eCommerceLoginTestCase_001@1ff4931d]" started-at="2020-11-13T01:38:31 EST" name="setup" finished-at="2020-11-13T01:38:38 EST" duration-ms="6396" status="PASS">
+        <test-method is-config="true" signature="setup(java.lang.String)[pri:0, instance:com.DemoProjecteCommerce2TestCases.TC1_eCommerceLoginTestCase_001@1ff4931d]" started-at="2020-11-14T07:35:58 EST" name="setup" finished-at="2020-11-14T07:36:05 EST" duration-ms="6938" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -167,21 +167,21 @@ at org.apache.maven.surefire.booter.ForkedBooter.main(ForkedBooter.java:418)
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setup -->
-        <test-method signature="addToCard()[pri:0, instance:com.DemoProjecteCommerce2TestCases.TC1_eCommerceLoginTestCase_001@1ff4931d]" started-at="2020-11-13T01:38:38 EST" name="addToCard" finished-at="2020-11-13T01:39:00 EST" duration-ms="21834" status="PASS">
+        <test-method signature="addToCard()[pri:0, instance:com.DemoProjecteCommerce2TestCases.TC1_eCommerceLoginTestCase_001@1ff4931d]" started-at="2020-11-14T07:36:05 EST" name="addToCard" finished-at="2020-11-14T07:36:26 EST" duration-ms="21797" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- addToCard -->
-        <test-method signature="loginTest()[pri:0, instance:com.DemoProjecteCommerce2TestCases.TC1_eCommerceLoginTestCase_001@1ff4931d]" started-at="2020-11-13T01:39:00 EST" name="loginTest" finished-at="2020-11-13T01:39:11 EST" duration-ms="11853" status="PASS">
+        <test-method signature="loginTest()[pri:0, instance:com.DemoProjecteCommerce2TestCases.TC1_eCommerceLoginTestCase_001@1ff4931d]" started-at="2020-11-14T07:36:26 EST" name="loginTest" finished-at="2020-11-14T07:36:38 EST" duration-ms="11637" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- loginTest -->
-        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.DemoProjecteCommerce2TestCases.TC1_eCommerceLoginTestCase_001@1ff4931d]" started-at="2020-11-13T01:39:11 EST" name="tearDown" finished-at="2020-11-13T01:39:12 EST" duration-ms="608" status="PASS">
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.DemoProjecteCommerce2TestCases.TC1_eCommerceLoginTestCase_001@1ff4931d]" started-at="2020-11-14T07:36:38 EST" name="tearDown" finished-at="2020-11-14T07:36:39 EST" duration-ms="616" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
       </class> <!-- com.DemoProjecteCommerce2TestCases.TC1_eCommerceLoginTestCase_001 -->
       <class name="com.DemoProjecteCommerce2TestCases.TC01_DressesLinkTestCase_001">
-        <test-method is-config="true" signature="setup(java.lang.String)[pri:0, instance:com.DemoProjecteCommerce2TestCases.TC01_DressesLinkTestCase_001@b3ca52e]" started-at="2020-11-13T01:38:01 EST" name="setup" finished-at="2020-11-13T01:38:07 EST" duration-ms="6426" status="PASS">
+        <test-method is-config="true" signature="setup(java.lang.String)[pri:0, instance:com.DemoProjecteCommerce2TestCases.TC01_DressesLinkTestCase_001@b3ca52e]" started-at="2020-11-14T07:35:26 EST" name="setup" finished-at="2020-11-14T07:35:33 EST" duration-ms="6974" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -192,11 +192,11 @@ at org.apache.maven.surefire.booter.ForkedBooter.main(ForkedBooter.java:418)
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setup -->
-        <test-method signature="dressesLinkHomePageValidation()[pri:0, instance:com.DemoProjecteCommerce2TestCases.TC01_DressesLinkTestCase_001@b3ca52e]" started-at="2020-11-13T01:38:07 EST" name="dressesLinkHomePageValidation" finished-at="2020-11-13T01:38:08 EST" duration-ms="921" status="PASS">
+        <test-method signature="dressesLinkHomePageValidation()[pri:0, instance:com.DemoProjecteCommerce2TestCases.TC01_DressesLinkTestCase_001@b3ca52e]" started-at="2020-11-14T07:35:33 EST" name="dressesLinkHomePageValidation" finished-at="2020-11-14T07:35:34 EST" duration-ms="1047" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- dressesLinkHomePageValidation -->
-        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.DemoProjecteCommerce2TestCases.TC01_DressesLinkTestCase_001@b3ca52e]" started-at="2020-11-13T01:38:08 EST" name="tearDown" finished-at="2020-11-13T01:38:08 EST" duration-ms="619" status="PASS">
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.DemoProjecteCommerce2TestCases.TC01_DressesLinkTestCase_001@b3ca52e]" started-at="2020-11-14T07:35:34 EST" name="tearDown" finished-at="2020-11-14T07:35:35 EST" duration-ms="605" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
