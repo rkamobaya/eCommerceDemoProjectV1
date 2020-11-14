@@ -1,1 +1,0 @@
-This is to test the checkout process from remote repository github to my local machine eclipse.
