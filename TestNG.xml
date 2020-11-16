@@ -20,6 +20,7 @@
 		<class name="com.DemoProjecteCommerce2TestCases.TC1_eCommerceLoginTestCase_001" />
 		<!-- class name="com.DemoProjecteCommerce2TestCases.TC2_createAccountTestCase_002"/> -->
 		<class name="com.DemoProjecteCommerce2TestCases.TC3_AddToCartItemTestCase_003" />
+		<class name="com.DemoProjecteCommerce2TestCases.TC4_ForgotPasswordTestCase_004" />
 	
 		
 		</classes>

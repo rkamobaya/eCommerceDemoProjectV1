@@ -16,6 +16,9 @@ public class eCommerceLoginPage {
 	}
 	
 	
+	@FindBy(xpath="//*[@id=\"login_form\"]/div/p[1]/a")
+	WebElement vp ;
+	
 	@FindBy(xpath="//*[@id=\"header\"]/div[2]/div/div/nav/div[1]/a")
 	WebElement Sg;
 	
@@ -52,10 +55,22 @@ public class eCommerceLoginPage {
 	@FindBy(xpath="//*[@id=\"header_logo\"]/a/img")
 	WebElement logo;
 	
+	@FindBy(xpath="//*[@id=\"login_form\"]/h3")
+	WebElement ar;
 	
 	
 	
 	
+	
+	public WebElement alreadyRegisterCheckText()
+	{
+		return ar;
+	}
+	
+	public WebElement forgotPasswordCheck()
+	{
+		return vp;
+	}
 	
 	public WebElement logoTest()
 	{
@@ -116,8 +131,6 @@ public class eCommerceLoginPage {
 	{
 		return Sg;
 	}
-	
-	
-	
+
 
 }
