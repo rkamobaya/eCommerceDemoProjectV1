@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testng-results ignored="0" total="10" passed="8" failed="2" skipped="0">
+<testng-results ignored="0" total="10" passed="7" failed="3" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2020-11-16T14:43:18 EST" name="eCommerce" finished-at="2020-11-16T14:45:26 EST" duration-ms="127790">
+  <suite started-at="2020-11-22T13:01:10 EST" name="eCommerce" finished-at="2020-11-22T13:03:42 EST" duration-ms="152419">
     <groups>
     </groups>
-    <test started-at="2020-11-16T14:43:18 EST" name="eCommerceApp Test" finished-at="2020-11-16T14:45:26 EST" duration-ms="127790">
+    <test started-at="2020-11-22T13:01:10 EST" name="eCommerceApp Test" finished-at="2020-11-22T13:03:42 EST" duration-ms="152419">
       <class name="com.DemoProjecteCommerce2TestCases.TC02_TsShirtLinkHomePageTestCase_001">
-        <test-method is-config="true" signature="setup(java.lang.String)[pri:0, instance:com.DemoProjecteCommerce2TestCases.TC02_TsShirtLinkHomePageTestCase_001@1fb700ee]" started-at="2020-11-16T14:43:39 EST" name="setup" finished-at="2020-11-16T14:43:46 EST" duration-ms="7102" status="PASS">
+        <test-method is-config="true" signature="setup(java.lang.String)[pri:0, instance:com.DemoProjecteCommerce2TestCases.TC02_TsShirtLinkHomePageTestCase_001@1fb700ee]" started-at="2020-11-22T13:01:28 EST" name="setup" finished-at="2020-11-22T13:01:34 EST" duration-ms="6598" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -18,17 +18,17 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setup -->
-        <test-method signature="tsShirtLinkHomePageTest()[pri:0, instance:com.DemoProjecteCommerce2TestCases.TC02_TsShirtLinkHomePageTestCase_001@1fb700ee]" started-at="2020-11-16T14:43:46 EST" name="tsShirtLinkHomePageTest" finished-at="2020-11-16T14:43:47 EST" duration-ms="1087" status="PASS">
+        <test-method signature="tsShirtLinkHomePageTest()[pri:0, instance:com.DemoProjecteCommerce2TestCases.TC02_TsShirtLinkHomePageTestCase_001@1fb700ee]" started-at="2020-11-22T13:01:34 EST" name="tsShirtLinkHomePageTest" finished-at="2020-11-22T13:01:35 EST" duration-ms="897" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tsShirtLinkHomePageTest -->
-        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.DemoProjecteCommerce2TestCases.TC02_TsShirtLinkHomePageTestCase_001@1fb700ee]" started-at="2020-11-16T14:43:47 EST" name="tearDown" finished-at="2020-11-16T14:43:47 EST" duration-ms="667" status="PASS">
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.DemoProjecteCommerce2TestCases.TC02_TsShirtLinkHomePageTestCase_001@1fb700ee]" started-at="2020-11-22T13:01:35 EST" name="tearDown" finished-at="2020-11-22T13:01:36 EST" duration-ms="631" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
       </class> <!-- com.DemoProjecteCommerce2TestCases.TC02_TsShirtLinkHomePageTestCase_001 -->
       <class name="com.DemoProjecteCommerce2TestCases.TC03_WebLogoHomePageTestCase_001">
-        <test-method is-config="true" signature="setup(java.lang.String)[pri:0, instance:com.DemoProjecteCommerce2TestCases.TC03_WebLogoHomePageTestCase_001@4f67eb2a]" started-at="2020-11-16T14:43:47 EST" name="setup" finished-at="2020-11-16T14:43:55 EST" duration-ms="7283" status="PASS">
+        <test-method is-config="true" signature="setup(java.lang.String)[pri:0, instance:com.DemoProjecteCommerce2TestCases.TC03_WebLogoHomePageTestCase_001@4f67eb2a]" started-at="2020-11-22T13:01:36 EST" name="setup" finished-at="2020-11-22T13:01:42 EST" duration-ms="6540" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -39,17 +39,17 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setup -->
-        <test-method signature="logoWebHomePageTest()[pri:0, instance:com.DemoProjecteCommerce2TestCases.TC03_WebLogoHomePageTestCase_001@4f67eb2a]" started-at="2020-11-16T14:43:55 EST" name="logoWebHomePageTest" finished-at="2020-11-16T14:43:55 EST" duration-ms="54" status="PASS">
+        <test-method signature="logoWebHomePageTest()[pri:0, instance:com.DemoProjecteCommerce2TestCases.TC03_WebLogoHomePageTestCase_001@4f67eb2a]" started-at="2020-11-22T13:01:42 EST" name="logoWebHomePageTest" finished-at="2020-11-22T13:01:42 EST" duration-ms="53" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- logoWebHomePageTest -->
-        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.DemoProjecteCommerce2TestCases.TC03_WebLogoHomePageTestCase_001@4f67eb2a]" started-at="2020-11-16T14:43:55 EST" name="tearDown" finished-at="2020-11-16T14:43:55 EST" duration-ms="622" status="PASS">
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.DemoProjecteCommerce2TestCases.TC03_WebLogoHomePageTestCase_001@4f67eb2a]" started-at="2020-11-22T13:01:42 EST" name="tearDown" finished-at="2020-11-22T13:01:43 EST" duration-ms="639" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
       </class> <!-- com.DemoProjecteCommerce2TestCases.TC03_WebLogoHomePageTestCase_001 -->
       <class name="com.DemoProjecteCommerce2TestCases.TC04_CartImageHomePageTestCase_001">
-        <test-method is-config="true" signature="setup(java.lang.String)[pri:0, instance:com.DemoProjecteCommerce2TestCases.TC04_CartImageHomePageTestCase_001@4a668b6e]" started-at="2020-11-16T14:43:55 EST" name="setup" finished-at="2020-11-16T14:44:02 EST" duration-ms="6516" status="PASS">
+        <test-method is-config="true" signature="setup(java.lang.String)[pri:0, instance:com.DemoProjecteCommerce2TestCases.TC04_CartImageHomePageTestCase_001@4a668b6e]" started-at="2020-11-22T13:01:43 EST" name="setup" finished-at="2020-11-22T13:01:49 EST" duration-ms="6470" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -60,17 +60,17 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setup -->
-        <test-method signature="cartImageTestValidation()[pri:0, instance:com.DemoProjecteCommerce2TestCases.TC04_CartImageHomePageTestCase_001@4a668b6e]" started-at="2020-11-16T14:44:02 EST" name="cartImageTestValidation" finished-at="2020-11-16T14:44:02 EST" duration-ms="590" status="PASS">
+        <test-method signature="cartImageTestValidation()[pri:0, instance:com.DemoProjecteCommerce2TestCases.TC04_CartImageHomePageTestCase_001@4a668b6e]" started-at="2020-11-22T13:01:49 EST" name="cartImageTestValidation" finished-at="2020-11-22T13:01:50 EST" duration-ms="968" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- cartImageTestValidation -->
-        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.DemoProjecteCommerce2TestCases.TC04_CartImageHomePageTestCase_001@4a668b6e]" started-at="2020-11-16T14:44:02 EST" name="tearDown" finished-at="2020-11-16T14:44:03 EST" duration-ms="674" status="PASS">
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.DemoProjecteCommerce2TestCases.TC04_CartImageHomePageTestCase_001@4a668b6e]" started-at="2020-11-22T13:01:50 EST" name="tearDown" finished-at="2020-11-22T13:01:51 EST" duration-ms="616" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
       </class> <!-- com.DemoProjecteCommerce2TestCases.TC04_CartImageHomePageTestCase_001 -->
       <class name="com.DemoProjecteCommerce2TestCases.TC0_WomenLinkTestCase_001">
-        <test-method is-config="true" signature="setup(java.lang.String)[pri:0, instance:com.DemoProjecteCommerce2TestCases.TC0_WomenLinkTestCase_001@53aad5d5]" started-at="2020-11-16T14:43:18 EST" name="setup" finished-at="2020-11-16T14:43:25 EST" duration-ms="7091" status="PASS">
+        <test-method is-config="true" signature="setup(java.lang.String)[pri:0, instance:com.DemoProjecteCommerce2TestCases.TC0_WomenLinkTestCase_001@53aad5d5]" started-at="2020-11-22T13:01:10 EST" name="setup" finished-at="2020-11-22T13:01:17 EST" duration-ms="7325" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -81,7 +81,7 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setup -->
-        <test-method signature="womenLinkHomePageTest()[pri:0, instance:com.DemoProjecteCommerce2TestCases.TC0_WomenLinkTestCase_001@53aad5d5]" started-at="2020-11-16T14:43:25 EST" name="womenLinkHomePageTest" finished-at="2020-11-16T14:43:26 EST" duration-ms="991" status="FAIL">
+        <test-method signature="womenLinkHomePageTest()[pri:0, instance:com.DemoProjecteCommerce2TestCases.TC0_WomenLinkTestCase_001@53aad5d5]" started-at="2020-11-22T13:01:17 EST" name="womenLinkHomePageTest" finished-at="2020-11-22T13:01:18 EST" duration-ms="1251" status="FAIL">
           <exception class="junit.framework.ComparisonFailure">
             <message>
               <![CDATA[expected:<... fashion collections[]> but was:<... fashion collections[.]>]]>
@@ -125,34 +125,13 @@ at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
           <reporter-output>
           </reporter-output>
         </test-method> <!-- womenLinkHomePageTest -->
-        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.DemoProjecteCommerce2TestCases.TC0_WomenLinkTestCase_001@53aad5d5]" started-at="2020-11-16T14:43:26 EST" name="tearDown" finished-at="2020-11-16T14:43:27 EST" duration-ms="619" status="PASS">
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.DemoProjecteCommerce2TestCases.TC0_WomenLinkTestCase_001@53aad5d5]" started-at="2020-11-22T13:01:19 EST" name="tearDown" finished-at="2020-11-22T13:01:19 EST" duration-ms="618" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
       </class> <!-- com.DemoProjecteCommerce2TestCases.TC0_WomenLinkTestCase_001 -->
-      <class name="com.DemoProjecteCommerce2TestCases.TC3_AddToCartItemTestCase_003">
-        <test-method is-config="true" signature="setup(java.lang.String)[pri:0, instance:com.DemoProjecteCommerce2TestCases.TC3_AddToCartItemTestCase_003@78ffe6dc]" started-at="2020-11-16T14:44:45 EST" name="setup" finished-at="2020-11-16T14:44:51 EST" duration-ms="6679" status="PASS">
-          <params>
-            <param index="0">
-              <value>
-                <![CDATA[chrome]]>
-              </value>
-            </param>
-          </params>
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- setup -->
-        <test-method signature="addToCartTest()[pri:0, instance:com.DemoProjecteCommerce2TestCases.TC3_AddToCartItemTestCase_003@78ffe6dc]" started-at="2020-11-16T14:44:51 EST" name="addToCartTest" finished-at="2020-11-16T14:45:15 EST" duration-ms="23811" status="PASS">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- addToCartTest -->
-        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.DemoProjecteCommerce2TestCases.TC3_AddToCartItemTestCase_003@78ffe6dc]" started-at="2020-11-16T14:45:15 EST" name="tearDown" finished-at="2020-11-16T14:45:16 EST" duration-ms="619" status="PASS">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- tearDown -->
-      </class> <!-- com.DemoProjecteCommerce2TestCases.TC3_AddToCartItemTestCase_003 -->
       <class name="com.DemoProjecteCommerce2TestCases.TC4_ForgotPasswordTestCase_004">
-        <test-method is-config="true" signature="setup(java.lang.String)[pri:0, instance:com.DemoProjecteCommerce2TestCases.TC4_ForgotPasswordTestCase_004@8317c52]" started-at="2020-11-16T14:45:16 EST" name="setup" finished-at="2020-11-16T14:45:22 EST" duration-ms="6608" status="PASS">
+        <test-method is-config="true" signature="setup(java.lang.String)[pri:0, instance:com.DemoProjecteCommerce2TestCases.TC4_ForgotPasswordTestCase_004@8317c52]" started-at="2020-11-22T13:03:33 EST" name="setup" finished-at="2020-11-22T13:03:39 EST" duration-ms="6639" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -163,7 +142,7 @@ at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setup -->
-        <test-method signature="verifyBackToLoginTest()[pri:0, instance:com.DemoProjecteCommerce2TestCases.TC4_ForgotPasswordTestCase_004@8317c52]" started-at="2020-11-16T14:45:22 EST" name="verifyBackToLoginTest" finished-at="2020-11-16T14:45:22 EST" duration-ms="1" status="FAIL">
+        <test-method signature="verifyBackToLoginTest()[pri:0, instance:com.DemoProjecteCommerce2TestCases.TC4_ForgotPasswordTestCase_004@8317c52]" started-at="2020-11-22T13:03:39 EST" name="verifyBackToLoginTest" finished-at="2020-11-22T13:03:39 EST" duration-ms="1" status="FAIL">
           <exception class="java.lang.NullPointerException">
             <message>
               <![CDATA[Cannot invoke "com.DemoProjecteCommerce1Pages.Page3_forgotPassword.backToLoginButton()" because "com.DemoProjecteCommerce2TestCases.TC4_ForgotPasswordTestCase_004.sv" is null]]>
@@ -205,17 +184,17 @@ at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
           <reporter-output>
           </reporter-output>
         </test-method> <!-- verifyBackToLoginTest -->
-        <test-method signature="verifyForgotPassportLinkTest()[pri:0, instance:com.DemoProjecteCommerce2TestCases.TC4_ForgotPasswordTestCase_004@8317c52]" started-at="2020-11-16T14:45:23 EST" name="verifyForgotPassportLinkTest" finished-at="2020-11-16T14:45:25 EST" duration-ms="1935" status="PASS">
+        <test-method signature="verifyForgotPassportLinkTest()[pri:0, instance:com.DemoProjecteCommerce2TestCases.TC4_ForgotPasswordTestCase_004@8317c52]" started-at="2020-11-22T13:03:40 EST" name="verifyForgotPassportLinkTest" finished-at="2020-11-22T13:03:41 EST" duration-ms="1576" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- verifyForgotPassportLinkTest -->
-        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.DemoProjecteCommerce2TestCases.TC4_ForgotPasswordTestCase_004@8317c52]" started-at="2020-11-16T14:45:25 EST" name="tearDown" finished-at="2020-11-16T14:45:26 EST" duration-ms="619" status="PASS">
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.DemoProjecteCommerce2TestCases.TC4_ForgotPasswordTestCase_004@8317c52]" started-at="2020-11-22T13:03:41 EST" name="tearDown" finished-at="2020-11-22T13:03:42 EST" duration-ms="635" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
       </class> <!-- com.DemoProjecteCommerce2TestCases.TC4_ForgotPasswordTestCase_004 -->
-      <class name="com.DemoProjecteCommerce2TestCases.TC1_eCommerceLoginTestCase_001">
-        <test-method is-config="true" signature="setup(java.lang.String)[pri:0, instance:com.DemoProjecteCommerce2TestCases.TC1_eCommerceLoginTestCase_001@5f683daf]" started-at="2020-11-16T14:44:03 EST" name="setup" finished-at="2020-11-16T14:44:10 EST" duration-ms="7206" status="PASS">
+      <class name="com.DemoProjecteCommerce2TestCases.TC3_AddToCartItemTestCase_003">
+        <test-method is-config="true" signature="setup(java.lang.String)[pri:0, instance:com.DemoProjecteCommerce2TestCases.TC3_AddToCartItemTestCase_003@78ffe6dc]" started-at="2020-11-22T13:02:57 EST" name="setup" finished-at="2020-11-22T13:03:05 EST" duration-ms="7644" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -226,21 +205,112 @@ at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setup -->
-        <test-method signature="addToCard()[pri:0, instance:com.DemoProjecteCommerce2TestCases.TC1_eCommerceLoginTestCase_001@5f683daf]" started-at="2020-11-16T14:44:10 EST" name="addToCard" finished-at="2020-11-16T14:44:32 EST" duration-ms="21681" status="PASS">
+        <test-method signature="addToCartTest()[pri:0, instance:com.DemoProjecteCommerce2TestCases.TC3_AddToCartItemTestCase_003@78ffe6dc]" started-at="2020-11-22T13:03:05 EST" name="addToCartTest" finished-at="2020-11-22T13:03:32 EST" duration-ms="27367" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addToCartTest -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.DemoProjecteCommerce2TestCases.TC3_AddToCartItemTestCase_003@78ffe6dc]" started-at="2020-11-22T13:03:32 EST" name="tearDown" finished-at="2020-11-22T13:03:33 EST" duration-ms="623" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.DemoProjecteCommerce2TestCases.TC3_AddToCartItemTestCase_003 -->
+      <class name="com.DemoProjecteCommerce2TestCases.TC1_eCommerceLoginTestCase_001">
+        <test-method is-config="true" signature="setup(java.lang.String)[pri:0, instance:com.DemoProjecteCommerce2TestCases.TC1_eCommerceLoginTestCase_001@5f683daf]" started-at="2020-11-22T13:01:51 EST" name="setup" finished-at="2020-11-22T13:01:58 EST" duration-ms="7114" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="addToCard()[pri:0, instance:com.DemoProjecteCommerce2TestCases.TC1_eCommerceLoginTestCase_001@5f683daf]" started-at="2020-11-22T13:01:58 EST" name="addToCard" finished-at="2020-11-22T13:02:20 EST" duration-ms="21822" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- addToCard -->
-        <test-method signature="loginTest()[pri:0, instance:com.DemoProjecteCommerce2TestCases.TC1_eCommerceLoginTestCase_001@5f683daf]" started-at="2020-11-16T14:44:32 EST" name="loginTest" finished-at="2020-11-16T14:44:44 EST" duration-ms="11928" status="PASS">
+        <test-method signature="loginTest()[pri:0, instance:com.DemoProjecteCommerce2TestCases.TC1_eCommerceLoginTestCase_001@5f683daf]" started-at="2020-11-22T13:02:20 EST" name="loginTest" finished-at="2020-11-22T13:02:44 EST" duration-ms="24414" status="FAIL">
+          <exception class="org.openqa.selenium.WebDriverException">
+            <message>
+              <![CDATA[chrome not reachable
+  (Session info: chrome=86.0.4240.193)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'LAPTOP-R9SPVK9V', ip: '192.168.1.57', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '15.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 86.0.4240.193, chrome: {chromedriverVersion: 85.0.4183.87 (cd6713ebf92fa..., userDataDir: C:\Users\rkamo\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:11392}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:virtualAuthenticators: true}
+Session ID: 5cae3d8f74476c94137740953edf1f17
+*** Element info: {Using=xpath, value=//*[@id="header"]/div[2]/div/div/nav/div[1]/a}]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[org.openqa.selenium.WebDriverException: chrome not reachable
+  (Session info: chrome=86.0.4240.193)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'LAPTOP-R9SPVK9V', ip: '192.168.1.57', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '15.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 86.0.4240.193, chrome: {chromedriverVersion: 85.0.4183.87 (cd6713ebf92fa..., userDataDir: C:\Users\rkamo\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:11392}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:virtualAuthenticators: true}
+Session ID: 5cae3d8f74476c94137740953edf1f17
+*** Element info: {Using=xpath, value=//*[@id="header"]/div[2]/div/div/nav/div[1]/a}
+at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:64)
+at java.base/jdk.internal.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+at java.base/java.lang.reflect.Constructor.newInstanceWithCaller(Constructor.java:500)
+at java.base/java.lang.reflect.Constructor.newInstance(Constructor.java:481)
+at org.openqa.selenium.remote.http.W3CHttpResponseCodec.createException(W3CHttpResponseCodec.java:187)
+at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:122)
+at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:49)
+at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:158)
+at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:83)
+at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:552)
+at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:323)
+at org.openqa.selenium.remote.RemoteWebDriver.findElementByXPath(RemoteWebDriver.java:428)
+at org.openqa.selenium.By$ByXPath.findElement(By.java:353)
+at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:315)
+at org.openqa.selenium.support.pagefactory.DefaultElementLocator.findElement(DefaultElementLocator.java:69)
+at org.openqa.selenium.support.pagefactory.internal.LocatingElementHandler.invoke(LocatingElementHandler.java:38)
+at com.sun.proxy.$Proxy14.getText(Unknown Source)
+at com.DemoProjecteCommerce2TestCases.TC1_eCommerceLoginTestCase_001.loginTest(TC1_eCommerceLoginTestCase_001.java:43)
+at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:64)
+at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+at java.base/java.lang.reflect.Method.invoke(Method.java:564)
+at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:134)
+at org.testng.internal.TestInvoker.invokeMethod(TestInvoker.java:597)
+at org.testng.internal.TestInvoker.invokeTestMethod(TestInvoker.java:173)
+at org.testng.internal.MethodRunner.runInSequence(MethodRunner.java:46)
+at org.testng.internal.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:816)
+at org.testng.internal.TestInvoker.invokeTestMethods(TestInvoker.java:146)
+at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:146)
+at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:128)
+at java.base/java.util.ArrayList.forEach(ArrayList.java:1511)
+at org.testng.TestRunner.privateRun(TestRunner.java:766)
+at org.testng.TestRunner.run(TestRunner.java:587)
+at org.testng.SuiteRunner.runTest(SuiteRunner.java:384)
+at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:378)
+at org.testng.SuiteRunner.privateRun(SuiteRunner.java:337)
+at org.testng.SuiteRunner.run(SuiteRunner.java:286)
+at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:53)
+at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:96)
+at org.testng.TestNG.runSuitesSequentially(TestNG.java:1187)
+at org.testng.TestNG.runSuitesLocally(TestNG.java:1109)
+at org.testng.TestNG.runSuites(TestNG.java:1039)
+at org.testng.TestNG.run(TestNG.java:1007)
+at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115)
+at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251)
+at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
+]]>
+            </full-stacktrace>
+          </exception> <!-- org.openqa.selenium.WebDriverException -->
           <reporter-output>
           </reporter-output>
         </test-method> <!-- loginTest -->
-        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.DemoProjecteCommerce2TestCases.TC1_eCommerceLoginTestCase_001@5f683daf]" started-at="2020-11-16T14:44:44 EST" name="tearDown" finished-at="2020-11-16T14:44:45 EST" duration-ms="639" status="PASS">
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.DemoProjecteCommerce2TestCases.TC1_eCommerceLoginTestCase_001@5f683daf]" started-at="2020-11-22T13:02:56 EST" name="tearDown" finished-at="2020-11-22T13:02:57 EST" duration-ms="554" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
       </class> <!-- com.DemoProjecteCommerce2TestCases.TC1_eCommerceLoginTestCase_001 -->
       <class name="com.DemoProjecteCommerce2TestCases.TC01_DressesLinkTestCase_001">
-        <test-method is-config="true" signature="setup(java.lang.String)[pri:0, instance:com.DemoProjecteCommerce2TestCases.TC01_DressesLinkTestCase_001@46fa7c39]" started-at="2020-11-16T14:43:27 EST" name="setup" finished-at="2020-11-16T14:43:35 EST" duration-ms="8033" status="PASS">
+        <test-method is-config="true" signature="setup(java.lang.String)[pri:0, instance:com.DemoProjecteCommerce2TestCases.TC01_DressesLinkTestCase_001@46fa7c39]" started-at="2020-11-22T13:01:19 EST" name="setup" finished-at="2020-11-22T13:01:26 EST" duration-ms="6577" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -251,11 +321,11 @@ at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setup -->
-        <test-method signature="dressesLinkHomePageValidation()[pri:0, instance:com.DemoProjecteCommerce2TestCases.TC01_DressesLinkTestCase_001@46fa7c39]" started-at="2020-11-16T14:43:35 EST" name="dressesLinkHomePageValidation" finished-at="2020-11-16T14:43:38 EST" duration-ms="2793" status="PASS">
+        <test-method signature="dressesLinkHomePageValidation()[pri:0, instance:com.DemoProjecteCommerce2TestCases.TC01_DressesLinkTestCase_001@46fa7c39]" started-at="2020-11-22T13:01:26 EST" name="dressesLinkHomePageValidation" finished-at="2020-11-22T13:01:27 EST" duration-ms="876" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- dressesLinkHomePageValidation -->
-        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.DemoProjecteCommerce2TestCases.TC01_DressesLinkTestCase_001@46fa7c39]" started-at="2020-11-16T14:43:38 EST" name="tearDown" finished-at="2020-11-16T14:43:39 EST" duration-ms="641" status="PASS">
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.DemoProjecteCommerce2TestCases.TC01_DressesLinkTestCase_001@46fa7c39]" started-at="2020-11-22T13:01:27 EST" name="tearDown" finished-at="2020-11-22T13:01:28 EST" duration-ms="621" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->

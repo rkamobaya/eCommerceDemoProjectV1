@@ -7,6 +7,13 @@
   <test thread-count="5" name="eCommerceApp Test(failed)">
     <parameter name="browser" value="chrome"/>
     <classes>
+      <class name="com.DemoProjecteCommerce2TestCases.TC1_eCommerceLoginTestCase_001">
+        <methods>
+          <include name="loginTest"/>
+          <include name="tearDown"/>
+          <include name="setup"/>
+        </methods>
+      </class> <!-- com.DemoProjecteCommerce2TestCases.TC1_eCommerceLoginTestCase_001 -->
       <class name="com.DemoProjecteCommerce2TestCases.TC4_ForgotPasswordTestCase_004">
         <methods>
           <include name="verifyBackToLoginTest"/>
